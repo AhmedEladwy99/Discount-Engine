@@ -1,0 +1,1000 @@
+2025-05-18T20:45:30.813   INFO   Applied discount 5.0% to Wine - White Pinot Grigio
+2025-05-18T20:45:30.830   INFO   Applied discount 0.0% to Pepper - Red Thai
+2025-05-18T20:45:30.833   INFO   Applied discount 5.0% to Wine - Chardonnay Mondavi
+2025-05-18T20:45:30.837   INFO   Applied discount 6.0% to External Supplier
+2025-05-18T20:45:30.839   INFO   Applied discount 7.0% to Beans - Black Bean Preserved
+2025-05-18T20:45:30.843   INFO   Applied discount 5.0% to Beef - Inside Round
+2025-05-18T20:45:30.846   INFO   Applied discount 4.5% to Bread - Calabrese Baguette
+2025-05-18T20:45:30.848   INFO   Applied discount 5.0% to Zucchini - Mini Green
+2025-05-18T20:45:30.851   INFO   Applied discount 11.5% to Eggs - Extra Large
+2025-05-18T20:45:30.853   INFO   Applied discount 7.5% to Pork - Liver
+2025-05-18T20:45:30.856   INFO   Applied discount 0.0% to Sesame Seed
+2025-05-18T20:45:30.859   INFO   Applied discount 5.0% to Tuna - Yellowfin
+2025-05-18T20:45:30.862   INFO   Applied discount 8.0% to Wine - Magnotta - Belpaese
+2025-05-18T20:45:30.865   INFO   Applied discount 0.0% to Bar Bran Honey Nut
+2025-05-18T20:45:30.868   INFO   Applied discount 7.0% to Cake - French Pear Tart
+2025-05-18T20:45:30.871   INFO   Applied discount 0.0% to Carbonated Water - Wildberry
+2025-05-18T20:45:30.874   INFO   Applied discount 7.0% to Pork - Ham Virginia
+2025-05-18T20:45:30.877   INFO   Applied discount 5.0% to Wine - Prosecco Valdobienne
+2025-05-18T20:45:30.880   INFO   Applied discount 5.0% to Lettuce - Boston Bib - Organic
+2025-05-18T20:45:30.882   INFO   Applied discount 15.0% to Wine - Marlbourough Sauv Blanc
+2025-05-18T20:45:30.885   INFO   Applied discount 10.0% to Longos - Chicken Cordon Bleu
+2025-05-18T20:45:30.887   INFO   Applied discount 5.0% to Beef Striploin Aaa
+2025-05-18T20:45:30.895   INFO   Applied discount 9.5% to Sauce - Oyster
+2025-05-18T20:45:30.898   INFO   Applied discount 5.0% to Barley - Pearl
+2025-05-18T20:45:30.900   INFO   Applied discount 10.0% to Cheese Cloth No 60
+2025-05-18T20:45:30.903   INFO   Applied discount 10.0% to Cut Wakame - Hanawakaba
+2025-05-18T20:45:30.907   INFO   Applied discount 14.5% to Kolrabi
+2025-05-18T20:45:30.909   INFO   Applied discount 6.0% to Coffee - Espresso
+2025-05-18T20:45:30.911   INFO   Applied discount 18.0% to Beef - Kindney Whole
+2025-05-18T20:45:30.916   INFO   Applied discount 5.0% to Honey - Comb
+2025-05-18T20:45:30.923   INFO   Applied discount 25.0% to Soup Campbells Turkey Veg.
+2025-05-18T20:45:30.926   INFO   Applied discount 15.5% to Syrup - Monin - Blue Curacao
+2025-05-18T20:45:30.929   INFO   Applied discount 0.0% to Coffee Beans - Chocolate
+2025-05-18T20:45:30.932   INFO   Applied discount 7.5% to Wine - Vidal Icewine Magnotta
+2025-05-18T20:45:30.934   INFO   Applied discount 7.5% to Island Oasis - Peach Daiquiri
+2025-05-18T20:45:30.937   INFO   Applied discount 0.0% to Lychee
+2025-05-18T20:45:30.940   INFO   Applied discount 6.0% to Contreau
+2025-05-18T20:45:30.942   INFO   Applied discount 10.5% to Cheese - Taleggio D.o.p.
+2025-05-18T20:45:30.945   INFO   Applied discount 7.0% to Persimmons
+2025-05-18T20:45:30.948   INFO   Applied discount 5.0% to Towels - Paper / Kraft
+2025-05-18T20:45:30.951   INFO   Applied discount 8.5% to Pastry - Cheese Baked Scones
+2025-05-18T20:45:30.954   INFO   Applied discount 10.0% to Honey - Liquid
+2025-05-18T20:45:30.957   INFO   Applied discount 6.0% to Veal - Bones
+2025-05-18T20:45:30.961   INFO   Applied discount 16.5% to Beets
+2025-05-18T20:45:30.963   INFO   Applied discount 5.0% to Wine - Saint Emilion Calvet
+2025-05-18T20:45:30.966   INFO   Applied discount 6.0% to Coffee - Ristretto Coffee Capsule
+2025-05-18T20:45:30.969   INFO   Applied discount 8.5% to Beef - Tenderlion Center Cut
+2025-05-18T20:45:30.972   INFO   Applied discount 5.0% to Pails With Lids
+2025-05-18T20:45:30.975   INFO   Applied discount 5.0% to Wine - Cousino Macul Antiguas
+2025-05-18T20:45:30.977   INFO   Applied discount 5.0% to Puree - Mango
+2025-05-18T20:45:30.981   INFO   Applied discount 0.0% to Soup - Campbells Chili
+2025-05-18T20:45:30.984   INFO   Applied discount 5.0% to Table Cloth 91x91 Colour
+2025-05-18T20:45:30.986   INFO   Applied discount 5.0% to Apron
+2025-05-18T20:45:30.988   INFO   Applied discount 5.0% to Chocolate - Mi - Amere Semi
+2025-05-18T20:45:30.991   INFO   Applied discount 7.0% to Tomatoes - Plum Canned
+2025-05-18T20:45:30.994   INFO   Applied discount 5.0% to Oysters - Smoked
+2025-05-18T20:45:30.997   INFO   Applied discount 12.0% to Pork - Chop Frenched
+2025-05-18T20:45:31.001   INFO   Applied discount 15.5% to Pastry - Baked Cinnamon Stick
+2025-05-18T20:45:31.010   INFO   Applied discount 10.0% to Bread Foccacia Whole
+2025-05-18T20:45:31.015   INFO   Applied discount 5.0% to Tuna - Loin
+2025-05-18T20:45:31.018   INFO   Applied discount 5.0% to Corn Syrup
+2025-05-18T20:45:31.022   INFO   Applied discount 17.0% to Wine - Bouchard La Vignee Pinot
+2025-05-18T20:45:31.026   INFO   Applied discount 0.0% to Lamb - Pieces Diced
+2025-05-18T20:45:31.031   INFO   Applied discount 16.5% to Cocoa Butter
+2025-05-18T20:45:31.035   INFO   Applied discount 0.0% to Juice - Apple 284ml
+2025-05-18T20:45:31.039   INFO   Applied discount 0.0% to Tomato - Plum With Basil
+2025-05-18T20:45:31.043   INFO   Applied discount 5.0% to Wine - Magnotta White
+2025-05-18T20:45:31.047   INFO   Applied discount 7.0% to Veal - Knuckle
+2025-05-18T20:45:31.054   INFO   Applied discount 10.5% to Sugar - Brown
+2025-05-18T20:45:31.059   INFO   Applied discount 0.0% to Mix - Cocktail Ice Cream
+2025-05-18T20:45:31.063   INFO   Applied discount 14.5% to Bread Base - Gold Formel
+2025-05-18T20:45:31.067   INFO   Applied discount 5.0% to Salmon - Whole 4 - 6 Pounds
+2025-05-18T20:45:31.071   INFO   Applied discount 7.0% to Lettuce - Radicchio
+2025-05-18T20:45:31.075   INFO   Applied discount 7.5% to Wood Chips - Regular
+2025-05-18T20:45:31.079   INFO   Applied discount 5.0% to Pails With Lids
+2025-05-18T20:45:31.084   INFO   Applied discount 3.0% to Strawberries
+2025-05-18T20:45:31.087   INFO   Applied discount 21.0% to Bread - Pita
+2025-05-18T20:45:31.090   INFO   Applied discount 9.0% to Hand Towel
+2025-05-18T20:45:31.094   INFO   Applied discount 5.0% to Ice Cream - Chocolate
+2025-05-18T20:45:31.098   INFO   Applied discount 18.0% to Lid - 16 Oz And 32 Oz
+2025-05-18T20:45:31.101   INFO   Applied discount 16.0% to Mayonnaise
+2025-05-18T20:45:31.107   INFO   Applied discount 5.0% to Tarts Assorted
+2025-05-18T20:45:31.111   INFO   Applied discount 7.0% to Butter - Salted
+2025-05-18T20:45:31.113   INFO   Applied discount 7.0% to Amaretto
+2025-05-18T20:45:31.116   INFO   Applied discount 10.0% to Bread - White Mini Epi
+2025-05-18T20:45:31.119   INFO   Applied discount 7.5% to Lamb - Bones
+2025-05-18T20:45:31.121   INFO   Applied discount 7.0% to Bagelers - Cinn / Brown Sugar
+2025-05-18T20:45:31.124   INFO   Applied discount 8.0% to Soup - Campbells Beef Barley
+2025-05-18T20:45:31.127   INFO   Applied discount 5.0% to Pasta - Fettuccine Egg Fresh
+2025-05-18T20:45:31.129   INFO   Applied discount 5.0% to Nut - Almond Blanched Whole
+2025-05-18T20:45:31.132   INFO   Applied discount 15.5% to Wine - White Schroder And Schyl
+2025-05-18T20:45:31.134   INFO   Applied discount 21.0% to Soup - Knorr Chicken Gumbo
+2025-05-18T20:45:31.137   INFO   Applied discount 18.0% to Wine - Red Colio Cabernet
+2025-05-18T20:45:31.139   INFO   Applied discount 5.0% to Thyme - Lemon Fresh
+2025-05-18T20:45:31.142   INFO   Applied discount 5.0% to Honey - Lavender
+2025-05-18T20:45:31.145   INFO   Applied discount 16.0% to Cake - Bande Of Fruit
+2025-05-18T20:45:31.149   INFO   Applied discount 9.5% to Veal - Insides Provini
+2025-05-18T20:45:31.153   INFO   Applied discount 17.5% to Cheese - Taleggio D.o.p.
+2025-05-18T20:45:31.156   INFO   Applied discount 0.0% to Table Cloth 54x54 Colour
+2025-05-18T20:45:31.160   INFO   Applied discount 6.0% to Nut - Walnut Chopped
+2025-05-18T20:45:31.162   INFO   Applied discount 10.0% to Turkey - Whole Fresh
+2025-05-18T20:45:31.165   INFO   Applied discount 0.0% to Ocean Spray - Ruby Red
+2025-05-18T20:45:31.168   INFO   Applied discount 5.0% to Nantucket - Orange Mango Cktl
+2025-05-18T20:45:31.171   INFO   Applied discount 5.0% to Flower - Carnations
+2025-05-18T20:45:31.173   INFO   Applied discount 0.0% to Tequila - Sauza Silver
+2025-05-18T20:45:31.177   INFO   Applied discount 6.0% to Soup - Base Broth Beef
+2025-05-18T20:45:31.181   INFO   Applied discount 10.0% to Mikes Hard Lemonade
+2025-05-18T20:45:31.184   INFO   Applied discount 6.0% to Pasta - Lasagna Dry
+2025-05-18T20:45:31.187   INFO   Applied discount 5.0% to Ginsing - Fresh
+2025-05-18T20:45:31.190   INFO   Applied discount 5.0% to Capon - Breast Wing On
+2025-05-18T20:45:31.192   INFO   Applied discount 0.0% to Chocolate - Semi Sweet Calets
+2025-05-18T20:45:31.195   INFO   Applied discount 6.0% to Tray - 16in Rnd Blk
+2025-05-18T20:45:31.198   INFO   Applied discount 8.5% to Coffee - Frthy Coffee Crisp
+2025-05-18T20:45:31.201   INFO   Applied discount 9.5% to Schnappes Peppermint - Walker
+2025-05-18T20:45:31.204   INFO   Applied discount 5.0% to Wine - White Lindemans Bin 95
+2025-05-18T20:45:31.208   INFO   Applied discount 6.0% to Coffee Cup 12oz 5342cd
+2025-05-18T20:45:31.212   INFO   Applied discount 5.0% to Paper - Brown Paper Mini Cups
+2025-05-18T20:45:31.216   INFO   Applied discount 0.0% to Coffee - Frthy Coffee Crisp
+2025-05-18T20:45:31.220   INFO   Applied discount 9.0% to Tea - Orange Pekoe
+2025-05-18T20:45:31.223   INFO   Applied discount 6.0% to Muffin Mix - Raisin Bran
+2025-05-18T20:45:31.227   INFO   Applied discount 30.0% to Jack Daniels
+2025-05-18T20:45:31.231   INFO   Applied discount 6.0% to Beef - Ground Medium
+2025-05-18T20:45:31.235   INFO   Applied discount 22.0% to Onion Powder
+2025-05-18T20:45:31.239   INFO   Applied discount 6.0% to Tomatoes - Grape
+2025-05-18T20:45:31.242   INFO   Applied discount 6.0% to Wine - Chenin Blanc K.w.v.
+2025-05-18T20:45:31.247   INFO   Applied discount 6.5% to Quail - Eggs Fresh
+2025-05-18T20:45:31.251   INFO   Applied discount 5.5% to Bread - Pumpernickel
+2025-05-18T20:45:31.254   INFO   Applied discount 5.0% to Apples - Spartan
+2025-05-18T20:45:31.258   INFO   Applied discount 5.0% to Snails - Large Canned
+2025-05-18T20:45:31.263   INFO   Applied discount 5.0% to Eggplant - Baby
+2025-05-18T20:45:31.268   INFO   Applied discount 5.0% to Wine - Rioja Campo Viejo
+2025-05-18T20:45:31.272   INFO   Applied discount 15.0% to Wine - Rosso Toscano Igt
+2025-05-18T20:45:31.276   INFO   Applied discount 16.5% to Wine - Blue Nun Qualitatswein
+2025-05-18T20:45:31.281   INFO   Applied discount 5.0% to Ecolab Crystal Fusion
+2025-05-18T20:45:31.285   INFO   Applied discount 5.0% to Ecolab Crystal Fusion
+2025-05-18T20:45:31.289   INFO   Applied discount 6.0% to Sauce - White Mix
+2025-05-18T20:45:31.298   INFO   Applied discount 5.0% to Lobak
+2025-05-18T20:45:31.302   INFO   Applied discount 16.5% to Pasta - Shells Medium Dry
+2025-05-18T20:45:31.306   INFO   Applied discount 6.5% to Tomatoes Tear Drop Yellow
+2025-05-18T20:45:31.309   INFO   Applied discount 7.0% to Melon - Honey Dew
+2025-05-18T20:45:31.313   INFO   Applied discount 30.0% to Dried Cranberries
+2025-05-18T20:45:31.317   INFO   Applied discount 5.0% to Bagels Poppyseed
+2025-05-18T20:45:31.320   INFO   Applied discount 5.0% to Mushroom - Crimini
+2025-05-18T20:45:31.323   INFO   Applied discount 5.0% to Spice - Peppercorn Melange
+2025-05-18T20:45:31.326   INFO   Applied discount 5.0% to Fruit Salad Deluxe
+2025-05-18T20:45:31.332   INFO   Applied discount 12.0% to Mountain Dew
+2025-05-18T20:45:31.335   INFO   Applied discount 5.5% to Pur Value
+2025-05-18T20:45:31.340   INFO   Applied discount 5.0% to Remy Red Berry Infusion
+2025-05-18T20:45:31.343   INFO   Applied discount 5.0% to Chestnuts - Wholecanned
+2025-05-18T20:45:31.347   INFO   Applied discount 9.0% to Pork - Sausage Medium
+2025-05-18T20:45:31.351   INFO   Applied discount 7.0% to Apple - Royal Gala
+2025-05-18T20:45:31.355   INFO   Applied discount 6.0% to Oil - Cooking Spray
+2025-05-18T20:45:31.358   INFO   Applied discount 24.0% to Tuna - Bluefin
+2025-05-18T20:45:31.362   INFO   Applied discount 0.0% to Pepper - Green Thai
+2025-05-18T20:45:31.368   INFO   Applied discount 7.0% to Mustard - Individual Pkg
+2025-05-18T20:45:31.372   INFO   Applied discount 6.0% to Pepper - Julienne Frozen
+2025-05-18T20:45:31.375   INFO   Applied discount 16.0% to Hummus - Spread
+2025-05-18T20:45:31.377   INFO   Applied discount 5.0% to Absolut Citron
+2025-05-18T20:45:31.381   INFO   Applied discount 10.5% to Salad Dressing
+2025-05-18T20:45:31.385   INFO   Applied discount 6.0% to Yogurt - Assorted Pack
+2025-05-18T20:45:31.390   INFO   Applied discount 5.0% to Soap - Hand Soap
+2025-05-18T20:45:31.394   INFO   Applied discount 5.0% to Barley - Pearl
+2025-05-18T20:45:31.399   INFO   Applied discount 5.0% to Appetizer - Sausage Rolls
+2025-05-18T20:45:31.403   INFO   Applied discount 12.5% to Lemons
+2025-05-18T20:45:31.406   INFO   Applied discount 8.5% to Cake - Miini Cheesecake Cherry
+2025-05-18T20:45:31.409   INFO   Applied discount 7.5% to Table Cloth 72x144 White
+2025-05-18T20:45:31.413   INFO   Applied discount 3.0% to Sword Pick Asst
+2025-05-18T20:45:31.417   INFO   Applied discount 0.0% to Cake - Sheet Strawberry
+2025-05-18T20:45:31.420   INFO   Applied discount 7.0% to Tuna - Sushi Grade
+2025-05-18T20:45:31.423   INFO   Applied discount 5.0% to Wine - Vovray Sec Domaine Huet
+2025-05-18T20:45:31.429   INFO   Applied discount 6.0% to Watercress
+2025-05-18T20:45:31.434   INFO   Applied discount 7.0% to V8 Splash Strawberry Banana
+2025-05-18T20:45:31.437   INFO   Applied discount 7.0% to Syrup - Monin - Blue Curacao
+2025-05-18T20:45:31.440   INFO   Applied discount 17.5% to Sprouts - China Rose
+2025-05-18T20:45:31.443   INFO   Applied discount 5.0% to Pears - Bosc
+2025-05-18T20:45:31.447   INFO   Applied discount 50.0% to Beef - Ox Tongue
+2025-05-18T20:45:31.451   INFO   Applied discount 5.0% to Buttons
+2025-05-18T20:45:31.455   INFO   Applied discount 27.5% to The Pop Shoppe - Root Beer
+2025-05-18T20:45:31.458   INFO   Applied discount 15.0% to Pork - Ground
+2025-05-18T20:45:31.466   INFO   Applied discount 5.0% to Wasabi Powder
+2025-05-18T20:45:31.470   INFO   Applied discount 6.0% to Milk 2% 500 Ml
+2025-05-18T20:45:31.475   INFO   Applied discount 33.5% to Flavouring - Orange
+2025-05-18T20:45:31.481   INFO   Applied discount 14.0% to Juice - Orange Concentrate
+2025-05-18T20:45:31.484   INFO   Applied discount 6.0% to Bonito Flakes - Toku Katsuo
+2025-05-18T20:45:31.489   INFO   Applied discount 5.0% to Bread - Bistro White
+2025-05-18T20:45:31.492   INFO   Applied discount 5.0% to Bread - English Muffin
+2025-05-18T20:45:31.497   INFO   Applied discount 5.0% to Nantuket Peach Orange
+2025-05-18T20:45:31.501   INFO   Applied discount 7.0% to Currants
+2025-05-18T20:45:31.504   INFO   Applied discount 6.0% to Wine - Red Gallo Merlot
+2025-05-18T20:45:31.508   INFO   Applied discount 8.5% to Cheese - Camembert
+2025-05-18T20:45:31.511   INFO   Applied discount 7.5% to Container - Hngd Cll Blk 7x7x3
+2025-05-18T20:45:31.516   INFO   Applied discount 5.0% to Tomatoes - Vine Ripe Red
+2025-05-18T20:45:31.521   INFO   Applied discount 5.0% to Durian Fruit
+2025-05-18T20:45:31.524   INFO   Applied discount 50.0% to Veal - Shank Pieces
+2025-05-18T20:45:31.528   INFO   Applied discount 6.5% to Container - Clear 32 Oz
+2025-05-18T20:45:31.532   INFO   Applied discount 5.0% to Soup - Campbells - Chicken Noodle
+2025-05-18T20:45:31.537   INFO   Applied discount 5.0% to Rice - Aborio
+2025-05-18T20:45:31.541   INFO   Applied discount 6.0% to Wine - Fume Blanc Fetzer
+2025-05-18T20:45:31.547   INFO   Applied discount 5.0% to Beef - Salted
+2025-05-18T20:45:31.551   INFO   Applied discount 4.5% to Pastry - French Mini Assorted
+2025-05-18T20:45:31.555   INFO   Applied discount 5.0% to Liners - Baking Cups
+2025-05-18T20:45:31.559   INFO   Applied discount 11.0% to Cookie - Oatmeal
+2025-05-18T20:45:31.565   INFO   Applied discount 5.0% to Pastry - Banana Tea Loaf
+2025-05-18T20:45:31.569   INFO   Applied discount 36.0% to Broom And Brush Rack Black
+2025-05-18T20:45:31.573   INFO   Applied discount 0.0% to Fish - Bones
+2025-05-18T20:45:31.577   INFO   Applied discount 13.0% to Pie Shell - 5
+2025-05-18T20:45:31.581   INFO   Applied discount 11.0% to Wine - White Colubia Cresh
+2025-05-18T20:45:31.583   INFO   Applied discount 14.5% to Celery Root
+2025-05-18T20:45:31.587   INFO   Applied discount 5.0% to Longos - Greek Salad
+2025-05-18T20:45:31.590   INFO   Applied discount 17.0% to Puree - Raspberry
+2025-05-18T20:45:31.594   INFO   Applied discount 16.5% to Calvados - Boulard
+2025-05-18T20:45:31.597   INFO   Applied discount 7.0% to Scampi Tail
+2025-05-18T20:45:31.599   INFO   Applied discount 6.0% to Island Oasis - Ice Cream Mix
+2025-05-18T20:45:31.601   INFO   Applied discount 10.0% to Plasticforkblack
+2025-05-18T20:45:31.604   INFO   Applied discount 4.0% to Bread - 10 Grain Parisian
+2025-05-18T20:45:31.606   INFO   Applied discount 15.0% to Kale - Red
+2025-05-18T20:45:31.608   INFO   Applied discount 5.0% to Wine - Casillero Deldiablo
+2025-05-18T20:45:31.613   INFO   Applied discount 10.0% to Maintenance Removal Charge
+2025-05-18T20:45:31.619   INFO   Applied discount 7.0% to Tea - Mint
+2025-05-18T20:45:31.623   INFO   Applied discount 14.5% to Cookie - Oreo 100x2
+2025-05-18T20:45:31.627   INFO   Applied discount 7.0% to Compound - Pear
+2025-05-18T20:45:31.630   INFO   Applied discount 5.0% to The Pop Shoppe Pinapple
+2025-05-18T20:45:31.635   INFO   Applied discount 7.0% to Tarragon - Primerba Paste
+2025-05-18T20:45:31.639   INFO   Applied discount 6.0% to Straw - Regular
+2025-05-18T20:45:31.644   INFO   Applied discount 5.0% to Mussels - Cultivated
+2025-05-18T20:45:31.653   INFO   Applied discount 5.0% to Beef - Top Butt Aaa
+2025-05-18T20:45:31.659   INFO   Applied discount 15.0% to Beer - Sleemans Honey Brown
+2025-05-18T20:45:31.664   INFO   Applied discount 18.5% to Bread - Pumpernickle Rounds
+2025-05-18T20:45:31.667   INFO   Applied discount 8.5% to Cheese - Cheddar With Claret
+2025-05-18T20:45:31.670   INFO   Applied discount 0.0% to Orange Roughy 6/8 Oz
+2025-05-18T20:45:31.672   INFO   Applied discount 7.0% to Quiche Assorted
+2025-05-18T20:45:31.676   INFO   Applied discount 5.0% to Cherries - Fresh
+2025-05-18T20:45:31.681   INFO   Applied discount 7.5% to Appetizer - Cheese Bites
+2025-05-18T20:45:31.684   INFO   Applied discount 7.5% to Wine - Barossa Valley Estate
+2025-05-18T20:45:31.688   INFO   Applied discount 6.0% to External Supplier
+2025-05-18T20:45:31.691   INFO   Applied discount 7.5% to The Pop Shoppe Pinapple
+2025-05-18T20:45:31.697   INFO   Applied discount 5.0% to Wine - Red Gallo Merlot
+2025-05-18T20:45:31.700   INFO   Applied discount 0.0% to Beef - Top Butt Aaa
+2025-05-18T20:45:31.703   INFO   Applied discount 14.0% to Yoghurt Tubes
+2025-05-18T20:45:31.706   INFO   Applied discount 5.0% to Fudge - Chocolate Fudge
+2025-05-18T20:45:31.710   INFO   Applied discount 0.0% to Pickles - Gherkins
+2025-05-18T20:45:31.718   INFO   Applied discount 14.5% to Chef Hat 25cm
+2025-05-18T20:45:31.723   INFO   Applied discount 0.0% to Wheat - Soft Kernal Of Wheat
+2025-05-18T20:45:31.727   INFO   Applied discount 7.0% to Soup - Campbells Chili Veg
+2025-05-18T20:45:31.730   INFO   Applied discount 6.0% to Bread - Granary Small Pull
+2025-05-18T20:45:31.735   INFO   Applied discount 6.0% to Bananas
+2025-05-18T20:45:31.739   INFO   Applied discount 10.0% to Glaze - Apricot
+2025-05-18T20:45:31.744   INFO   Applied discount 7.5% to Wine - Taylors Reserve
+2025-05-18T20:45:31.752   INFO   Applied discount 7.5% to Cheese - Havarti Salsa
+2025-05-18T20:45:31.756   INFO   Applied discount 5.0% to Nori Sea Weed - Gold Label
+2025-05-18T20:45:31.760   INFO   Applied discount 30.0% to Wine La Vielle Ferme Cote Du
+2025-05-18T20:45:31.764   INFO   Applied discount 6.0% to Coffee - Frthy Coffee Crisp
+2025-05-18T20:45:31.768   INFO   Applied discount 5.0% to Marjoram - Dried Rubbed
+2025-05-18T20:45:31.773   INFO   Applied discount 15.0% to The Pop Shoppe Pinapple
+2025-05-18T20:45:31.779   INFO   Applied discount 12.0% to Crawfish
+2025-05-18T20:45:31.786   INFO   Applied discount 5.0% to Pork - Bacon Double Smoked
+2025-05-18T20:45:31.790   INFO   Applied discount 5.0% to Beer - Upper Canada Light
+2025-05-18T20:45:31.794   INFO   Applied discount 6.0% to Napkin - Beverge White 2 - Ply
+2025-05-18T20:45:31.799   INFO   Applied discount 6.0% to Wine - Vineland Estate Semi - Dry
+2025-05-18T20:45:31.802   INFO   Applied discount 5.0% to Scrubbie - Scotchbrite Hand Pad
+2025-05-18T20:45:31.808   INFO   Applied discount 5.0% to Kellogs Raisan Bran Bars
+2025-05-18T20:45:31.813   INFO   Applied discount 11.0% to Wine - Rubyport
+2025-05-18T20:45:31.819   INFO   Applied discount 13.0% to Pumpkin
+2025-05-18T20:45:31.823   INFO   Applied discount 6.0% to Brandy Cherry - Mcguinness
+2025-05-18T20:45:31.828   INFO   Applied discount 12.0% to Wine - Soave Folonari
+2025-05-18T20:45:31.831   INFO   Applied discount 5.0% to Tomatoes - Cherry
+2025-05-18T20:45:31.835   INFO   Applied discount 5.0% to Mousse - Banana Chocolate
+2025-05-18T20:45:31.839   INFO   Applied discount 11.0% to Cheese - Brick With Pepper
+2025-05-18T20:45:31.843   INFO   Applied discount 5.0% to Flour - Chickpea
+2025-05-18T20:45:31.850   INFO   Applied discount 5.0% to Tart Shells - Savory 2
+2025-05-18T20:45:31.854   INFO   Applied discount 14.0% to Clams - Bay
+2025-05-18T20:45:31.858   INFO   Applied discount 7.0% to Honey - Comb
+2025-05-18T20:45:31.862   INFO   Applied discount 7.0% to Thyme - Dried
+2025-05-18T20:45:31.866   INFO   Applied discount 7.0% to V8 Splash Strawberry Kiwi
+2025-05-18T20:45:31.870   INFO   Applied discount 7.5% to Jameson Irish Whiskey
+2025-05-18T20:45:31.873   INFO   Applied discount 5.0% to Lemonade - Pineapple Passion
+2025-05-18T20:45:31.877   INFO   Applied discount 6.0% to Coconut - Creamed Pure
+2025-05-18T20:45:31.882   INFO   Applied discount 6.0% to Pepper - Chillies Crushed
+2025-05-18T20:45:31.887   INFO   Applied discount 5.0% to Petit Baguette
+2025-05-18T20:45:31.890   INFO   Applied discount 26.5% to Juice - Apple 500 Ml
+2025-05-18T20:45:31.896   INFO   Applied discount 0.0% to Onions - Spanish
+2025-05-18T20:45:31.900   INFO   Applied discount 5.0% to Wine - Carmenere Casillero Del
+2025-05-18T20:45:31.905   INFO   Applied discount 5.5% to Chips Potato All Dressed - 43g
+2025-05-18T20:45:31.909   INFO   Applied discount 0.0% to Pastrami
+2025-05-18T20:45:31.914   INFO   Applied discount 5.0% to Sobe - Green Tea
+2025-05-18T20:45:31.918   INFO   Applied discount 10.0% to Cheese - La Sauvagine
+2025-05-18T20:45:31.923   INFO   Applied discount 7.0% to Jicama
+2025-05-18T20:45:31.927   INFO   Applied discount 5.0% to Wine - Sicilia Igt Nero Avola
+2025-05-18T20:45:31.933   INFO   Applied discount 5.0% to Ginger - Crystalized
+2025-05-18T20:45:31.938   INFO   Applied discount 6.0% to Blue Curacao - Marie Brizard
+2025-05-18T20:45:31.941   INFO   Applied discount 6.0% to Pail - 15l White With Handle
+2025-05-18T20:45:31.946   INFO   Applied discount 10.0% to Pork - Kidney
+2025-05-18T20:45:31.950   INFO   Applied discount 5.0% to Table Cloth - 53x69 Colour
+2025-05-18T20:45:31.955   INFO   Applied discount 6.0% to Ostrich - Prime Cut
+2025-05-18T20:45:31.961   INFO   Applied discount 0.0% to Potatoes - Peeled
+2025-05-18T20:45:31.965   INFO   Applied discount 5.0% to Fish - Artic Char Cold Smoked
+2025-05-18T20:45:31.969   INFO   Applied discount 6.0% to Oil - Canola
+2025-05-18T20:45:31.973   INFO   Applied discount 5.0% to Bread - English Muffin
+2025-05-18T20:45:31.979   INFO   Applied discount 7.5% to Table Cloth 120 Round White
+2025-05-18T20:45:31.983   INFO   Applied discount 6.0% to Pork Ham Prager
+2025-05-18T20:45:31.990   INFO   Applied discount 6.0% to Dc - Frozen Momji
+2025-05-18T20:45:31.994   INFO   Applied discount 0.0% to Yeast Dry - Fermipan
+2025-05-18T20:45:31.998   INFO   Applied discount 7.0% to Veal Inside - Provimi
+2025-05-18T20:45:32.002   INFO   Applied discount 5.0% to Pepper - Chillies Crushed
+2025-05-18T20:45:32.006   INFO   Applied discount 5.0% to Chef Hat 20cm
+2025-05-18T20:45:32.009   INFO   Applied discount 7.5% to Oil - Olive Extra Virgin
+2025-05-18T20:45:32.015   INFO   Applied discount 5.0% to Basil - Thai
+2025-05-18T20:45:32.019   INFO   Applied discount 5.0% to Fennel - Seeds
+2025-05-18T20:45:32.021   INFO   Applied discount 10.0% to Gingerale - Schweppes 355 Ml
+2025-05-18T20:45:32.024   INFO   Applied discount 10.0% to Duck - Whole
+2025-05-18T20:45:32.027   INFO   Applied discount 12.5% to Truffle - Whole Black Peeled
+2025-05-18T20:45:32.030   INFO   Applied discount 0.0% to Lobak
+2025-05-18T20:45:32.032   INFO   Applied discount 5.0% to Pasta - Linguini Dry
+2025-05-18T20:45:32.034   INFO   Applied discount 11.5% to Plate Foam Laminated 9in Blk
+2025-05-18T20:45:32.037   INFO   Applied discount 0.0% to Pasta - Penne Lisce Dry
+2025-05-18T20:45:32.039   INFO   Applied discount 3.0% to Chocolate - Milk Callets
+2025-05-18T20:45:32.041   INFO   Applied discount 0.0% to Bagel - Ched Chs Presliced
+2025-05-18T20:45:32.044   INFO   Applied discount 15.5% to Horseradish Root
+2025-05-18T20:45:32.046   INFO   Applied discount 7.5% to Bamboo Shoots - Sliced
+2025-05-18T20:45:32.049   INFO   Applied discount 5.0% to Sauce - Oyster
+2025-05-18T20:45:32.051   INFO   Applied discount 0.0% to Cotton Wet Mop 16 Oz
+2025-05-18T20:45:32.054   INFO   Applied discount 8.5% to Cheese - Marble
+2025-05-18T20:45:32.056   INFO   Applied discount 6.0% to Wine - Cotes Du Rhone Parallele
+2025-05-18T20:45:32.058   INFO   Applied discount 5.0% to Mop Head - Cotton 24 Oz
+2025-05-18T20:45:32.061   INFO   Applied discount 6.0% to Eggwhite Frozen
+2025-05-18T20:45:32.064   INFO   Applied discount 5.0% to Truffle Cups - Brown
+2025-05-18T20:45:32.066   INFO   Applied discount 6.0% to Muskox - French Rack
+2025-05-18T20:45:32.068   INFO   Applied discount 17.5% to Sprite Diet - 355ml
+2025-05-18T20:45:32.070   INFO   Applied discount 6.0% to Burger Veggie
+2025-05-18T20:45:32.072   INFO   Applied discount 6.0% to Food Colouring - Orange
+2025-05-18T20:45:32.074   INFO   Applied discount 6.0% to Truffle Cups - White Paper
+2025-05-18T20:45:32.077   INFO   Applied discount 5.0% to Ostrich - Prime Cut
+2025-05-18T20:45:32.080   INFO   Applied discount 7.5% to Sole - Iqf
+2025-05-18T20:45:32.084   INFO   Applied discount 0.0% to Muffin Batt - Carrot Spice
+2025-05-18T20:45:32.088   INFO   Applied discount 7.0% to Pork - Chop Frenched
+2025-05-18T20:45:32.091   INFO   Applied discount 5.5% to Bread - Roll Whole Wheat
+2025-05-18T20:45:32.097   INFO   Applied discount 5.0% to Island Oasis - Peach Daiquiri
+2025-05-18T20:45:32.102   INFO   Applied discount 7.5% to Cheese - Gouda
+2025-05-18T20:45:32.105   INFO   Applied discount 5.0% to Food Colouring - Green
+2025-05-18T20:45:32.111   INFO   Applied discount 6.0% to Bread - White Sliced
+2025-05-18T20:45:32.115   INFO   Applied discount 6.0% to Parsley - Fresh
+2025-05-18T20:45:32.119   INFO   Applied discount 0.0% to Pop - Club Soda Can
+2025-05-18T20:45:32.123   INFO   Applied discount 5.0% to Muffin Hinge 117n
+2025-05-18T20:45:32.128   INFO   Applied discount 5.0% to Hipnotiq Liquor
+2025-05-18T20:45:32.132   INFO   Applied discount 6.0% to Jameson - Irish Whiskey
+2025-05-18T20:45:32.135   INFO   Applied discount 7.0% to Peas Snow
+2025-05-18T20:45:32.139   INFO   Applied discount 5.0% to Soup - Knorr Ministrone
+2025-05-18T20:45:32.145   INFO   Applied discount 5.0% to Soup Campbells Split Pea And Ham
+2025-05-18T20:45:32.148   INFO   Applied discount 5.0% to Beef - Ox Tongue
+2025-05-18T20:45:32.152   INFO   Applied discount 9.0% to Water - Aquafina Vitamin
+2025-05-18T20:45:32.155   INFO   Applied discount 5.0% to Sesame Seed
+2025-05-18T20:45:32.159   INFO   Applied discount 6.0% to Wine - Soave Folonari
+2025-05-18T20:45:32.165   INFO   Applied discount 5.0% to Pork - Ham Hocks - Smoked
+2025-05-18T20:45:32.168   INFO   Applied discount 10.0% to Cheese - Woolwich Goat Log
+2025-05-18T20:45:32.171   INFO   Applied discount 6.0% to Bread - Roll Calabrese
+2025-05-18T20:45:32.178   INFO   Applied discount 6.0% to Pork - Smoked Back Bacon
+2025-05-18T20:45:32.181   INFO   Applied discount 7.5% to Compound - Raspberry
+2025-05-18T20:45:32.184   INFO   Applied discount 5.0% to Mousse - Banana Chocolate
+2025-05-18T20:45:32.188   INFO   Applied discount 9.0% to Flour - Chickpea
+2025-05-18T20:45:32.191   INFO   Applied discount 7.5% to Wine - Baron De Rothschild
+2025-05-18T20:45:32.193   INFO   Applied discount 6.0% to Tart Shells - Savory 3
+2025-05-18T20:45:32.197   INFO   Applied discount 0.0% to Gelatine Leaves - Envelopes
+2025-05-18T20:45:32.199   INFO   Applied discount 6.5% to Soup - Campbells Beef Barley
+2025-05-18T20:45:32.201   INFO   Applied discount 26.0% to Sugar - Sweet N Low Individual
+2025-05-18T20:45:32.203   INFO   Applied discount 0.0% to Flour - Fast / Rapid
+2025-05-18T20:45:32.205   INFO   Applied discount 5.0% to Flower - Leather Leaf Fern
+2025-05-18T20:45:32.207   INFO   Applied discount 10.0% to Potatoes - Mini Red
+2025-05-18T20:45:32.209   INFO   Applied discount 7.5% to Cheese - Brick With Pepper
+2025-05-18T20:45:32.211   INFO   Applied discount 14.0% to Tea - Decaf 1 Cup
+2025-05-18T20:45:32.213   INFO   Applied discount 7.0% to Wine - Prosecco Valdobienne
+2025-05-18T20:45:32.215   INFO   Applied discount 7.5% to Wonton Wrappers
+2025-05-18T20:45:32.218   INFO   Applied discount 30.0% to Oranges
+2025-05-18T20:45:32.220   INFO   Applied discount 8.5% to Vodka - Smirnoff
+2025-05-18T20:45:32.222   INFO   Applied discount 6.0% to Doilies - 7 Paper
+2025-05-18T20:45:32.224   INFO   Applied discount 7.5% to Sauce - Vodka Blush
+2025-05-18T20:45:32.226   INFO   Applied discount 7.0% to Fruit Salad Deluxe
+2025-05-18T20:45:32.228   INFO   Applied discount 5.0% to Tray - 16in Rnd Blk
+2025-05-18T20:45:32.230   INFO   Applied discount 5.0% to Shallots
+2025-05-18T20:45:32.232   INFO   Applied discount 9.5% to Lobak
+2025-05-18T20:45:32.234   INFO   Applied discount 5.0% to The Pop Shoppe - Black Cherry
+2025-05-18T20:45:32.236   INFO   Applied discount 15.0% to Cheese - Le Cru Du Clocher
+2025-05-18T20:45:32.238   INFO   Applied discount 6.0% to Bread - Sticks Thin Plain
+2025-05-18T20:45:32.241   INFO   Applied discount 13.0% to Assorted Desserts
+2025-05-18T20:45:32.244   INFO   Applied discount 7.5% to Shrimp - 31/40
+2025-05-18T20:45:32.247   INFO   Applied discount 17.0% to Appetizer - Shrimp Puff
+2025-05-18T20:45:32.250   INFO   Applied discount 5.0% to Shortbread - Cookie Crumbs
+2025-05-18T20:45:32.252   INFO   Applied discount 0.0% to Sausage - Meat
+2025-05-18T20:45:32.254   INFO   Applied discount 5.0% to Raspberries - Frozen
+2025-05-18T20:45:32.257   INFO   Applied discount 15.0% to Carbonated Water - Lemon Lime
+2025-05-18T20:45:32.260   INFO   Applied discount 7.5% to Cookie Dough - Oatmeal Rasin
+2025-05-18T20:45:32.262   INFO   Applied discount 7.0% to Coffee Cup 16oz Foam
+2025-05-18T20:45:32.264   INFO   Applied discount 7.5% to Cheese - Swiss
+2025-05-18T20:45:32.267   INFO   Applied discount 0.0% to Flour - Whole Wheat
+2025-05-18T20:45:32.269   INFO   Applied discount 14.5% to Tobasco Sauce
+2025-05-18T20:45:32.271   INFO   Applied discount 5.0% to Vegetable - Base
+2025-05-18T20:45:32.274   INFO   Applied discount 5.0% to Macaroons - Two Bite Choc
+2025-05-18T20:45:32.276   INFO   Applied discount 12.0% to Iced Tea - Lemon 460 Ml
+2025-05-18T20:45:32.278   INFO   Applied discount 0.0% to Cookie Chocolate Chip With
+2025-05-18T20:45:32.280   INFO   Applied discount 5.0% to Wine - Chardonnay Mondavi
+2025-05-18T20:45:32.283   INFO   Applied discount 7.5% to Kale - Red
+2025-05-18T20:45:32.286   INFO   Applied discount 5.0% to Chevere Logs
+2025-05-18T20:45:32.290   INFO   Applied discount 5.0% to Fondant - Icing
+2025-05-18T20:45:32.294   INFO   Applied discount 8.5% to Table Cloth 53x53 White
+2025-05-18T20:45:32.298   INFO   Applied discount 5.5% to Soup - Campbells Asian Noodle
+2025-05-18T20:45:32.305   INFO   Applied discount 7.0% to Pate - Cognac
+2025-05-18T20:45:32.309   INFO   Applied discount 0.0% to Turnip - White
+2025-05-18T20:45:32.314   INFO   Applied discount 7.5% to Cheese - Woolwich Goat Log
+2025-05-18T20:45:32.320   INFO   Applied discount 7.5% to Oil - Shortening - All - Purpose
+2025-05-18T20:45:32.325   INFO   Applied discount 0.0% to Thyme - Fresh
+2025-05-18T20:45:32.330   INFO   Applied discount 15.5% to Hagen Daza - Dk Choocolate
+2025-05-18T20:45:32.335   INFO   Applied discount 5.0% to Yoplait - Strawbrasp Peac
+2025-05-18T20:45:32.338   INFO   Applied discount 5.0% to Cream - 35%
+2025-05-18T20:45:32.343   INFO   Applied discount 6.0% to Lemon Balm - Fresh
+2025-05-18T20:45:32.347   INFO   Applied discount 7.5% to Cheese - Grie Des Champ
+2025-05-18T20:45:32.351   INFO   Applied discount 5.0% to Stock - Beef White
+2025-05-18T20:45:32.354   INFO   Applied discount 10.0% to Onions - Cippolini
+2025-05-18T20:45:32.358   INFO   Applied discount 14.5% to Beef - Tender Tips
+2025-05-18T20:45:32.363   INFO   Applied discount 19.5% to Beer - Guiness
+2025-05-18T20:45:32.366   INFO   Applied discount 5.0% to Soup - Campbells Beef Stew
+2025-05-18T20:45:32.369   INFO   Applied discount 7.0% to Soup - Chicken And Wild Rice
+2025-05-18T20:45:32.374   INFO   Applied discount 6.0% to Ice Cream - Life Savers
+2025-05-18T20:45:32.378   INFO   Applied discount 0.0% to Pork - Backfat
+2025-05-18T20:45:32.381   INFO   Applied discount 9.0% to Pecan Raisin - Tarts
+2025-05-18T20:45:32.385   INFO   Applied discount 12.0% to Brocolinni - Gaylan Chinese
+2025-05-18T20:45:32.388   INFO   Applied discount 7.5% to Cheese - Manchego Spanish
+2025-05-18T20:45:32.391   INFO   Applied discount 7.0% to Mustard - Pommery
+2025-05-18T20:45:32.395   INFO   Applied discount 6.0% to Potatoes - Mini Red
+2025-05-18T20:45:32.399   INFO   Applied discount 3.0% to Pastry - Carrot Muffin - Mini
+2025-05-18T20:45:32.403   INFO   Applied discount 14.5% to Sparkling Wine - Rose Freixenet
+2025-05-18T20:45:32.406   INFO   Applied discount 6.0% to Jam - Blackberry 20 Ml Jar
+2025-05-18T20:45:32.409   INFO   Applied discount 6.0% to Stock - Fish
+2025-05-18T20:45:32.414   INFO   Applied discount 5.0% to Poppy Seed
+2025-05-18T20:45:32.417   INFO   Applied discount 5.0% to Fond - Neutral
+2025-05-18T20:45:32.421   INFO   Applied discount 6.0% to Artichoke - Fresh
+2025-05-18T20:45:32.424   INFO   Applied discount 0.0% to Muffin - Zero Transfat
+2025-05-18T20:45:32.430   INFO   Applied discount 7.5% to Soup - Campbells Bean Medley
+2025-05-18T20:45:32.434   INFO   Applied discount 10.5% to Canadian Emmenthal
+2025-05-18T20:45:32.437   INFO   Applied discount 5.0% to Corn - On The Cob
+2025-05-18T20:45:32.440   INFO   Applied discount 5.0% to Lamb Rack Frenched Australian
+2025-05-18T20:45:32.443   INFO   Applied discount 7.5% to Pastry - Baked Cinnamon Stick
+2025-05-18T20:45:32.447   INFO   Applied discount 8.0% to Tortillas - Flour 12
+2025-05-18T20:45:32.449   INFO   Applied discount 0.0% to Steampan - Lid For Half Size
+2025-05-18T20:45:32.454   INFO   Applied discount 0.0% to Capon - Breast Double Wing On
+2025-05-18T20:45:32.458   INFO   Applied discount 7.0% to Loquat
+2025-05-18T20:45:32.463   INFO   Applied discount 5.0% to Juice - Ocean Spray Cranberry
+2025-05-18T20:45:32.466   INFO   Applied discount 5.0% to Beef - Inside Round
+2025-05-18T20:45:32.470   INFO   Applied discount 5.0% to Pancetta
+2025-05-18T20:45:32.473   INFO   Applied discount 15.0% to Garlic - Elephant
+2025-05-18T20:45:32.476   INFO   Applied discount 5.0% to Ranchero - Primerba Paste
+2025-05-18T20:45:32.480   INFO   Applied discount 5.0% to Wine - Charddonnay Errazuriz
+2025-05-18T20:45:32.483   INFO   Applied discount 5.0% to Potatoes - Peeled
+2025-05-18T20:45:32.486   INFO   Applied discount 10.0% to Triple Sec - Mcguinness
+2025-05-18T20:45:32.489   INFO   Applied discount 22.0% to Longos - Penne With Pesto
+2025-05-18T20:45:32.493   INFO   Applied discount 5.0% to Onions - Red Pearl
+2025-05-18T20:45:32.498   INFO   Applied discount 7.5% to Pepper - Black Crushed
+2025-05-18T20:45:32.503   INFO   Applied discount 6.0% to Fond - Neutral
+2025-05-18T20:45:32.506   INFO   Applied discount 6.0% to Beer - Paulaner Hefeweisse
+2025-05-18T20:45:32.511   INFO   Applied discount 6.0% to Sage Derby
+2025-05-18T20:45:32.515   INFO   Applied discount 7.5% to Pasta - Fusili Tri - Coloured
+2025-05-18T20:45:32.518   INFO   Applied discount 17.0% to Lady Fingers
+2025-05-18T20:45:32.521   INFO   Applied discount 5.0% to Pop - Club Soda Can
+2025-05-18T20:45:32.524   INFO   Applied discount 5.0% to Cardamon Ground
+2025-05-18T20:45:32.528   INFO   Applied discount 15.0% to Ice Cream - Life Savers
+2025-05-18T20:45:32.536   INFO   Applied discount 14.0% to Five Alive Citrus
+2025-05-18T20:45:32.539   INFO   Applied discount 5.0% to Bagel - 12 Grain Preslice
+2025-05-18T20:45:32.544   INFO   Applied discount 10.0% to Cheese - Augre Des Champs
+2025-05-18T20:45:32.548   INFO   Applied discount 5.0% to Chocolate - Milk Callets
+2025-05-18T20:45:32.552   INFO   Applied discount 17.0% to Tea Leaves - Oolong
+2025-05-18T20:45:32.554   INFO   Applied discount 0.0% to Chilli Paste Hot Sambal Oelek
+2025-05-18T20:45:32.558   INFO   Applied discount 7.0% to Red Cod Fillets - 225g
+2025-05-18T20:45:32.563   INFO   Applied discount 7.0% to Fuji Apples
+2025-05-18T20:45:32.566   INFO   Applied discount 0.0% to Bread - Assorted Rolls
+2025-05-18T20:45:32.569   INFO   Applied discount 0.0% to Cocktail Napkin Blue
+2025-05-18T20:45:32.572   INFO   Applied discount 5.0% to Soup - French Onion Dry
+2025-05-18T20:45:32.575   INFO   Applied discount 5.0% to Coffee - Irish Cream
+2025-05-18T20:45:32.581   INFO   Applied discount 7.5% to Glycerine
+2025-05-18T20:45:32.584   INFO   Applied discount 5.0% to Lobster - Base
+2025-05-18T20:45:32.588   INFO   Applied discount 14.5% to Milk - Skim
+2025-05-18T20:45:32.590   INFO   Applied discount 7.0% to Cookie Choc
+2025-05-18T20:45:32.594   INFO   Applied discount 7.5% to Beer - Steamwhistle
+2025-05-18T20:45:32.597   INFO   Applied discount 0.0% to Spinach - Spinach Leaf
+2025-05-18T20:45:32.602   INFO   Applied discount 7.5% to Chinese Foods - Chicken Wing
+2025-05-18T20:45:32.606   INFO   Applied discount 13.5% to Cranberries - Frozen
+2025-05-18T20:45:32.608   INFO   Applied discount 0.0% to Soup - Campbells Chili
+2025-05-18T20:45:32.613   INFO   Applied discount 16.0% to General Purpose Trigger
+2025-05-18T20:45:32.616   INFO   Applied discount 17.5% to Liqueur Banana Ramazzotti
+2025-05-18T20:45:32.620   INFO   Applied discount 10.0% to Bagelers
+2025-05-18T20:45:32.623   INFO   Applied discount 5.0% to Chocolate Bar - Smarties
+2025-05-18T20:45:32.628   INFO   Applied discount 30.0% to Longos - Greek Salad
+2025-05-18T20:45:32.632   INFO   Applied discount 5.0% to Beer - Blue Light
+2025-05-18T20:45:32.636   INFO   Applied discount 7.5% to Ice Cream - Super Sandwich
+2025-05-18T20:45:32.639   INFO   Applied discount 6.0% to Bacardi Breezer - Tropical
+2025-05-18T20:45:32.643   INFO   Applied discount 5.0% to Beef - Montreal Smoked Brisket
+2025-05-18T20:45:32.646   INFO   Applied discount 7.0% to Sprouts Dikon
+2025-05-18T20:45:32.650   INFO   Applied discount 5.0% to Pasta - Bauletti Chicken White
+2025-05-18T20:45:32.654   INFO   Applied discount 8.0% to Chicken - Ground
+2025-05-18T20:45:32.657   INFO   Applied discount 6.0% to Wine - White French Cross
+2025-05-18T20:45:32.661   INFO   Applied discount 7.0% to Appetizer - Tarragon Chicken
+2025-05-18T20:45:32.664   INFO   Applied discount 5.0% to Phyllo Dough
+2025-05-18T20:45:32.667   INFO   Applied discount 7.5% to Cheese - Camembert
+2025-05-18T20:45:32.670   INFO   Applied discount 1.0% to Jam - Raspberry
+2025-05-18T20:45:32.673   INFO   Applied discount 15.5% to Wine - Pinot Noir Mondavi Coastal
+2025-05-18T20:45:32.677   INFO   Applied discount 7.5% to Creamers - 10%
+2025-05-18T20:45:32.680   INFO   Applied discount 6.0% to Wine - Chablis 2003 Champs
+2025-05-18T20:45:32.683   INFO   Applied discount 6.0% to Wine - Rosso Del Veronese Igt
+2025-05-18T20:45:32.686   INFO   Applied discount 6.0% to Filter - Coffee
+2025-05-18T20:45:32.688   INFO   Applied discount 5.0% to Ice Cream Bar - Oreo Sandwich
+2025-05-18T20:45:32.692   INFO   Applied discount 28.5% to Ham - Proscuitto
+2025-05-18T20:45:32.696   INFO   Applied discount 15.5% to Juice - Apple 341 Ml
+2025-05-18T20:45:32.700   INFO   Applied discount 5.0% to Magnotta Bel Paese Red
+2025-05-18T20:45:32.704   INFO   Applied discount 0.0% to Sauce Bbq Smokey
+2025-05-18T20:45:32.708   INFO   Applied discount 6.0% to Mix Pina Colada
+2025-05-18T20:45:32.713   INFO   Applied discount 5.0% to Chicken - Whole Roasting
+2025-05-18T20:45:32.716   INFO   Applied discount 5.0% to Sprouts - Peppercress
+2025-05-18T20:45:32.720   INFO   Applied discount 5.0% to Sugar Thermometer
+2025-05-18T20:45:32.724   INFO   Applied discount 6.0% to Butter - Pod
+2025-05-18T20:45:32.728   INFO   Applied discount 3.5% to Garam Marsala
+2025-05-18T20:45:32.731   INFO   Applied discount 5.0% to Mudslide
+2025-05-18T20:45:32.734   INFO   Applied discount 5.0% to Ecolab - Ster Bac
+2025-05-18T20:45:32.737   INFO   Applied discount 10.0% to Noodles - Cellophane Thin
+2025-05-18T20:45:32.740   INFO   Applied discount 7.0% to Appetizer - Southwestern
+2025-05-18T20:45:32.744   INFO   Applied discount 5.0% to Thyme - Dried
+2025-05-18T20:45:32.747   INFO   Applied discount 10.5% to Coffee - French Vanilla Frothy
+2025-05-18T20:45:32.754   INFO   Applied discount 0.0% to Ecolab - Solid Fusion
+2025-05-18T20:45:32.756   INFO   Applied discount 5.0% to Sour Puss - Tangerine
+2025-05-18T20:45:32.760   INFO   Applied discount 0.0% to Napkin Colour
+2025-05-18T20:45:32.764   INFO   Applied discount 3.5% to Passion Fruit
+2025-05-18T20:45:32.767   INFO   Applied discount 5.0% to Beef - Tenderloin Tails
+2025-05-18T20:45:32.770   INFO   Applied discount 6.5% to Calypso - Strawberry Lemonade
+2025-05-18T20:45:32.773   INFO   Applied discount 6.0% to Soupfoamcont12oz 112con
+2025-05-18T20:45:32.776   INFO   Applied discount 14.0% to Fudge - Cream Fudge
+2025-05-18T20:45:32.780   INFO   Applied discount 12.0% to Gingerale - Diet - Schweppes
+2025-05-18T20:45:32.783   INFO   Applied discount 0.0% to Trueblue - Blueberry 12x473ml
+2025-05-18T20:45:32.787   INFO   Applied discount 7.5% to Calypso - Black Cherry Lemonade
+2025-05-18T20:45:32.790   INFO   Applied discount 10.5% to Puree - Raspberry
+2025-05-18T20:45:32.793   INFO   Applied discount 0.0% to Pate - Cognac
+2025-05-18T20:45:32.796   INFO   Applied discount 10.0% to Hipnotiq Liquor
+2025-05-18T20:45:32.798   INFO   Applied discount 22.0% to Icecream - Dstk Cml And Fdg
+2025-05-18T20:45:32.801   INFO   Applied discount 9.0% to Muffin Mix - Carrot
+2025-05-18T20:45:32.803   INFO   Applied discount 5.0% to Mushroom - Morels Dry
+2025-05-18T20:45:32.805   INFO   Applied discount 5.0% to Foie Gras
+2025-05-18T20:45:32.807   INFO   Applied discount 5.0% to Pepperoni Slices
+2025-05-18T20:45:32.809   INFO   Applied discount 7.0% to Cake - Sheet Strawberry
+2025-05-18T20:45:32.812   INFO   Applied discount 5.0% to Mahi Mahi
+2025-05-18T20:45:32.813   INFO   Applied discount 10.0% to Beans - Yellow
+2025-05-18T20:45:32.815   INFO   Applied discount 5.0% to Mushrooms - Honey
+2025-05-18T20:45:32.817   INFO   Applied discount 7.0% to Longos - Lasagna Beef
+2025-05-18T20:45:32.819   INFO   Applied discount 0.0% to Food Colouring - Blue
+2025-05-18T20:45:32.820   INFO   Applied discount 7.0% to Veal - Provimi Inside
+2025-05-18T20:45:32.822   INFO   Applied discount 5.0% to Olive - Spread Tapenade
+2025-05-18T20:45:32.824   INFO   Applied discount 5.0% to Foil - Round Foil
+2025-05-18T20:45:32.826   INFO   Applied discount 30.0% to Scallops - U - 10
+2025-05-18T20:45:32.828   INFO   Applied discount 10.0% to Bag - Bread White Plain
+2025-05-18T20:45:32.830   INFO   Applied discount 5.0% to Carbonated Water - Raspberry
+2025-05-18T20:45:32.832   INFO   Applied discount 6.0% to Wine - Segura Viudas Aria Brut
+2025-05-18T20:45:32.833   INFO   Applied discount 15.5% to Amarula Cream
+2025-05-18T20:45:32.835   INFO   Applied discount 6.0% to Salmon - Atlantic No Skin
+2025-05-18T20:45:32.837   INFO   Applied discount 7.0% to Sugar Thermometer
+2025-05-18T20:45:32.838   INFO   Applied discount 11.0% to Liqueur - Melon
+2025-05-18T20:45:32.841   INFO   Applied discount 7.0% to Madeira
+2025-05-18T20:45:32.843   INFO   Applied discount 5.0% to Flower - Commercial Spider
+2025-05-18T20:45:32.844   INFO   Applied discount 5.0% to Capon - Breast Double Wing On
+2025-05-18T20:45:32.846   INFO   Applied discount 6.0% to Smoked Tongue
+2025-05-18T20:45:32.849   INFO   Applied discount 5.0% to Apple - Fuji
+2025-05-18T20:45:32.850   INFO   Applied discount 7.5% to Pork - Bacon Double Smoked
+2025-05-18T20:45:32.853   INFO   Applied discount 5.0% to Island Oasis - Peach Daiquiri
+2025-05-18T20:45:32.856   INFO   Applied discount 0.0% to Pepper - Chipotle Canned
+2025-05-18T20:45:32.858   INFO   Applied discount 5.0% to Wine - Duboeuf Beaujolais
+2025-05-18T20:45:32.860   INFO   Applied discount 5.0% to Soup - Knorr Classic Can. Chili
+2025-05-18T20:45:32.863   INFO   Applied discount 5.0% to Water - Spring Water 355 Ml
+2025-05-18T20:45:32.866   INFO   Applied discount 30.0% to Onions - Green
+2025-05-18T20:45:32.868   INFO   Applied discount 7.0% to Rice - Jasmine Sented
+2025-05-18T20:45:32.871   INFO   Applied discount 6.0% to Snapple Lemon Tea
+2025-05-18T20:45:32.873   INFO   Applied discount 5.0% to Nut - Cashews Whole Raw
+2025-05-18T20:45:32.876   INFO   Applied discount 5.0% to Bread - Triangle White
+2025-05-18T20:45:32.878   INFO   Applied discount 5.0% to Pasta - Rotini Colour Dry
+2025-05-18T20:45:32.881   INFO   Applied discount 18.0% to Milk - Skim
+2025-05-18T20:45:32.883   INFO   Applied discount 5.0% to Beans - Green
+2025-05-18T20:45:32.889   INFO   Applied discount 6.0% to Longos - Lasagna Beef
+2025-05-18T20:45:32.892   INFO   Applied discount 5.0% to Bread - Olive Dinner Roll
+2025-05-18T20:45:32.895   INFO   Applied discount 6.0% to Soup - French Can Pea
+2025-05-18T20:45:32.899   INFO   Applied discount 19.5% to Corn Meal
+2025-05-18T20:45:32.902   INFO   Applied discount 5.0% to Jerusalem Artichoke
+2025-05-18T20:45:32.906   INFO   Applied discount 6.0% to Ocean Spray - Kiwi Strawberry
+2025-05-18T20:45:32.910   INFO   Applied discount 5.0% to Silicone Parch. 16.3x24.3
+2025-05-18T20:45:32.914   INFO   Applied discount 22.0% to Sachet
+2025-05-18T20:45:32.918   INFO   Applied discount 12.0% to Spaghetti Squash
+2025-05-18T20:45:32.923   INFO   Applied discount 6.0% to Coffee Beans - Chocolate
+2025-05-18T20:45:32.927   INFO   Applied discount 6.0% to Bread - Flat Bread
+2025-05-18T20:45:32.931   INFO   Applied discount 11.5% to Egg Patty Fried
+2025-05-18T20:45:32.935   INFO   Applied discount 5.0% to Grenadillo
+2025-05-18T20:45:32.939   INFO   Applied discount 7.0% to Island Oasis - Peach Daiquiri
+2025-05-18T20:45:32.944   INFO   Applied discount 13.5% to Marsala - Sperone Fine D.o.c.
+2025-05-18T20:45:32.947   INFO   Applied discount 22.0% to Snapple - Mango Maddness
+2025-05-18T20:45:32.951   INFO   Applied discount 9.0% to Wine - Sake
+2025-05-18T20:45:32.954   INFO   Applied discount 8.5% to Bread - Sticks Thin Plain
+2025-05-18T20:45:32.959   INFO   Applied discount 16.5% to Sugar - Fine
+2025-05-18T20:45:32.964   INFO   Applied discount 0.0% to Snapple Lemon Tea
+2025-05-18T20:45:32.967   INFO   Applied discount 7.0% to Trout - Rainbow Fresh
+2025-05-18T20:45:32.971   INFO   Applied discount 5.0% to Chutney Sauce - Mango
+2025-05-18T20:45:32.975   INFO   Applied discount 5.0% to Wine - Placido Pinot Grigo
+2025-05-18T20:45:32.980   INFO   Applied discount 5.0% to Lobster - Live
+2025-05-18T20:45:32.983   INFO   Applied discount 15.0% to Pastry - Key Limepoppy Seed Tea
+2025-05-18T20:45:32.988   INFO   Applied discount 5.0% to Pepper - Julienne Frozen
+2025-05-18T20:45:32.992   INFO   Applied discount 6.0% to Tomatoes
+2025-05-18T20:45:32.997   INFO   Applied discount 12.5% to Water - Evian 355 Ml
+2025-05-18T20:45:33.001   INFO   Applied discount 0.0% to Beer - Maudite
+2025-05-18T20:45:33.004   INFO   Applied discount 5.0% to Bouillion - Fish
+2025-05-18T20:45:33.007   INFO   Applied discount 6.0% to Edible Flower - Mixed
+2025-05-18T20:45:33.010   INFO   Applied discount 14.5% to Split Peas - Green Dry
+2025-05-18T20:45:33.014   INFO   Applied discount 0.0% to Fib N9 - Prague Powder
+2025-05-18T20:45:33.018   INFO   Applied discount 12.0% to Pickle - Dill
+2025-05-18T20:45:33.024   INFO   Applied discount 16.0% to Truffle Cups - Red
+2025-05-18T20:45:33.028   INFO   Applied discount 10.0% to Broom - Angled
+2025-05-18T20:45:33.032   INFO   Applied discount 5.0% to Juice - Tomato 48 Oz
+2025-05-18T20:45:33.036   INFO   Applied discount 7.0% to Sauce - Plum
+2025-05-18T20:45:33.039   INFO   Applied discount 5.0% to Wine - Red Cabernet Merlot
+2025-05-18T20:45:33.043   INFO   Applied discount 8.5% to Cheese - Brie Cups 125g
+2025-05-18T20:45:33.047   INFO   Applied discount 5.0% to Horseradish Root
+2025-05-18T20:45:33.050   INFO   Applied discount 0.0% to Turnip - Wax
+2025-05-18T20:45:33.052   INFO   Applied discount 27.5% to Cumin - Ground
+2025-05-18T20:45:33.055   INFO   Applied discount 5.0% to Yogurt - Blueberry 175 Gr
+2025-05-18T20:45:33.057   INFO   Applied discount 12.0% to Cinnamon Rolls
+2025-05-18T20:45:33.060   INFO   Applied discount 15.0% to Wine - Vineland Estate Semi - Dry
+2025-05-18T20:45:33.062   INFO   Applied discount 10.0% to Dome Lid Clear P92008h
+2025-05-18T20:45:33.064   INFO   Applied discount 5.0% to Beef - Cow Feet Split
+2025-05-18T20:45:33.069   INFO   Applied discount 5.0% to Mahi Mahi
+2025-05-18T20:45:33.072   INFO   Applied discount 6.5% to Horseradish Root
+2025-05-18T20:45:33.074   INFO   Applied discount 5.0% to Bread - Sour Batard
+2025-05-18T20:45:33.077   INFO   Applied discount 7.5% to Sprite Diet - 355ml
+2025-05-18T20:45:33.079   INFO   Applied discount 9.0% to Eggplant Italian
+2025-05-18T20:45:33.082   INFO   Applied discount 5.0% to Pasta - Bauletti Chicken White
+2025-05-18T20:45:33.084   INFO   Applied discount 7.5% to Pastry - Key Limepoppy Seed Tea
+2025-05-18T20:45:33.086   INFO   Applied discount 7.0% to Veal - Tenderloin Untrimmed
+2025-05-18T20:45:33.089   INFO   Applied discount 6.0% to Bag - Regular Kraft 20 Lb
+2025-05-18T20:45:33.091   INFO   Applied discount 7.0% to Crackers - Soda / Saltins
+2025-05-18T20:45:33.094   INFO   Applied discount 10.0% to Oysters - Smoked
+2025-05-18T20:45:33.097   INFO   Applied discount 12.0% to Water - Mineral Natural
+2025-05-18T20:45:33.100   INFO   Applied discount 0.0% to Beef - Salted
+2025-05-18T20:45:33.104   INFO   Applied discount 5.0% to Wine - Baron De Rothschild
+2025-05-18T20:45:33.106   INFO   Applied discount 5.0% to Juice - Pineapple 341 Ml
+2025-05-18T20:45:33.112   INFO   Applied discount 10.5% to Ice Cream Bar - Oreo Sandwich
+2025-05-18T20:45:33.115   INFO   Applied discount 7.0% to Beef - Roasted Cooked
+2025-05-18T20:45:33.119   INFO   Applied discount 0.0% to Dates
+2025-05-18T20:45:33.124   INFO   Applied discount 5.0% to Spice - Onion Powder Granulated
+2025-05-18T20:45:33.128   INFO   Applied discount 6.0% to Creme De Cacao White
+2025-05-18T20:45:33.132   INFO   Applied discount 27.5% to Oil - Olive
+2025-05-18T20:45:33.136   INFO   Applied discount 9.5% to Wine - White Concha Y Toro
+2025-05-18T20:45:33.140   INFO   Applied discount 5.0% to Wine - Bourgogne 2002 La
+2025-05-18T20:45:33.145   INFO   Applied discount 8.0% to Bread - Rye
+2025-05-18T20:45:33.147   INFO   Applied discount 6.0% to Filter - Coffee
+2025-05-18T20:45:33.151   INFO   Applied discount 10.0% to Pasta - Lasagne Fresh
+2025-05-18T20:45:33.155   INFO   Applied discount 0.0% to Gherkin
+2025-05-18T20:45:33.158   INFO   Applied discount 10.5% to Swordfish Loin Portions
+2025-05-18T20:45:33.163   INFO   Applied discount 5.0% to Sausage - Chorizo
+2025-05-18T20:45:33.166   INFO   Applied discount 10.0% to Sauce - Soy Low Sodium - 3.87l
+2025-05-18T20:45:33.169   INFO   Applied discount 8.0% to Hinge W Undercut
+2025-05-18T20:45:33.174   INFO   Applied discount 6.0% to Wine - Fino Tio Pepe Gonzalez
+2025-05-18T20:45:33.178   INFO   Applied discount 3.0% to Container - Foam Dixie 12 Oz
+2025-05-18T20:45:33.181   INFO   Applied discount 6.5% to Pastry - Baked Cinnamon Stick
+2025-05-18T20:45:33.184   INFO   Applied discount 7.0% to Appetizer - Crab And Brie
+2025-05-18T20:45:33.187   INFO   Applied discount 8.0% to Carbonated Water - White Grape
+2025-05-18T20:45:33.191   INFO   Applied discount 5.0% to Wine - Vineland Estate Semi - Dry
+2025-05-18T20:45:33.195   INFO   Applied discount 5.0% to Tomatoes - Yellow Hot House
+2025-05-18T20:45:33.201   INFO   Applied discount 5.0% to Ice Cream - Turtles Stick Bar
+2025-05-18T20:45:33.205   INFO   Applied discount 7.0% to Lobster - Canned Premium
+2025-05-18T20:45:33.208   INFO   Applied discount 5.0% to Tomatoes - Heirloom
+2025-05-18T20:45:33.211   INFO   Applied discount 21.0% to Bread - Sour Batard
+2025-05-18T20:45:33.214   INFO   Applied discount 10.0% to Cheese - Briedanish
+2025-05-18T20:45:33.217   INFO   Applied discount 10.5% to Oil - Sunflower
+2025-05-18T20:45:33.219   INFO   Applied discount 10.0% to Milkettes - 2%
+2025-05-18T20:45:33.221   INFO   Applied discount 5.0% to Mushroom - Shitake Dry
+2025-05-18T20:45:33.223   INFO   Applied discount 10.0% to Langers - Ruby Red Grapfruit
+2025-05-18T20:45:33.226   INFO   Applied discount 12.0% to Coffee - Frthy Coffee Crisp
+2025-05-18T20:45:33.229   INFO   Applied discount 11.0% to Wine - Touraine Azay - Le - Rideau
+2025-05-18T20:45:33.231   INFO   Applied discount 6.0% to Nantucket - 518ml
+2025-05-18T20:45:33.234   INFO   Applied discount 7.0% to Bar Mix - Lime
+2025-05-18T20:45:33.236   INFO   Applied discount 0.0% to Brandy Apricot
+2025-05-18T20:45:33.238   INFO   Applied discount 15.5% to Bread - English Muffin
+2025-05-18T20:45:33.240   INFO   Applied discount 6.0% to Chevril
+2025-05-18T20:45:33.243   INFO   Applied discount 9.0% to Cocoa Feuilletine
+2025-05-18T20:45:33.245   INFO   Applied discount 7.0% to Spinach - Packaged
+2025-05-18T20:45:33.247   INFO   Applied discount 5.0% to Tea - Jasmin Green
+2025-05-18T20:45:33.249   INFO   Applied discount 0.0% to The Pop Shoppe - Root Beer
+2025-05-18T20:45:33.251   INFO   Applied discount 5.0% to Onions - Cippolini
+2025-05-18T20:45:33.253   INFO   Applied discount 7.5% to Wine - Magnotta - Cab Franc
+2025-05-18T20:45:33.259   INFO   Applied discount 0.0% to Chicken - Tenderloin
+2025-05-18T20:45:33.262   INFO   Applied discount 0.0% to Scallops - 10/20
+2025-05-18T20:45:33.265   INFO   Applied discount 5.0% to Wine - Vovray Sec Domaine Huet
+2025-05-18T20:45:33.267   INFO   Applied discount 6.0% to Lime Cordial - Roses
+2025-05-18T20:45:33.270   INFO   Applied discount 5.0% to Muffin Hinge 117n
+2025-05-18T20:45:33.273   INFO   Applied discount 11.5% to Beer - True North Lager
+2025-05-18T20:45:33.275   INFO   Applied discount 5.0% to Wine - Red Pinot Noir Chateau
+2025-05-18T20:45:33.277   INFO   Applied discount 10.0% to Tomato Puree
+2025-05-18T20:45:33.280   INFO   Applied discount 7.5% to Pork - Ham Virginia
+2025-05-18T20:45:33.282   INFO   Applied discount 7.5% to Jerusalem Artichoke
+2025-05-18T20:45:33.284   INFO   Applied discount 5.0% to Wine - Touraine Azay - Le - Rideau
+2025-05-18T20:45:33.286   INFO   Applied discount 5.0% to Corn - Cream Canned
+2025-05-18T20:45:33.288   INFO   Applied discount 5.0% to Banana - Green
+2025-05-18T20:45:33.290   INFO   Applied discount 5.0% to Wine - White Ej
+2025-05-18T20:45:33.292   INFO   Applied discount 6.0% to Beer - Fruli
+2025-05-18T20:45:33.295   INFO   Applied discount 13.5% to Wine - Casillero Del Diablo
+2025-05-18T20:45:33.298   INFO   Applied discount 6.0% to Whmis Spray Bottle Graduated
+2025-05-18T20:45:33.301   INFO   Applied discount 7.0% to Shrimp - 16 - 20 Cooked Peeled
+2025-05-18T20:45:33.304   INFO   Applied discount 6.0% to Water - Mineral Natural
+2025-05-18T20:45:33.307   INFO   Applied discount 5.0% to Versatainer Nc - 8288
+2025-05-18T20:45:33.311   INFO   Applied discount 5.0% to Wine - Tribal Sauvignon
+2025-05-18T20:45:33.315   INFO   Applied discount 7.0% to Beef - Diced
+2025-05-18T20:45:33.319   INFO   Applied discount 7.5% to Wine - Shiraz South Eastern
+2025-05-18T20:45:33.322   INFO   Applied discount 6.0% to Fruit Salad Deluxe
+2025-05-18T20:45:33.326   INFO   Applied discount 5.0% to Pepper - Paprika Spanish
+2025-05-18T20:45:33.330   INFO   Applied discount 5.0% to Squid - Breaded
+2025-05-18T20:45:33.333   INFO   Applied discount 0.0% to Beef - Kobe Striploin
+2025-05-18T20:45:33.337   INFO   Applied discount 6.0% to Salmon - Atlantic No Skin
+2025-05-18T20:45:33.340   INFO   Applied discount 5.0% to Juice - Cranberry 341 Ml
+2025-05-18T20:45:33.345   INFO   Applied discount 5.0% to Skirt - 29 Foot
+2025-05-18T20:45:33.351   INFO   Applied discount 8.5% to Lamb - Whole Frozen
+2025-05-18T20:45:33.354   INFO   Applied discount 7.5% to Cheese - Havarti Roasted Garlic
+2025-05-18T20:45:33.359   INFO   Applied discount 17.5% to Cheese - Goat
+2025-05-18T20:45:33.364   INFO   Applied discount 15.0% to Temperature Recording Station
+2025-05-18T20:45:33.367   INFO   Applied discount 0.0% to Blueberries - Frozen
+2025-05-18T20:45:33.371   INFO   Applied discount 5.0% to Shallots
+2025-05-18T20:45:33.375   INFO   Applied discount 5.0% to Bar Mix - Lemon
+2025-05-18T20:45:33.379   INFO   Applied discount 5.0% to Vinegar - Balsamic White
+2025-05-18T20:45:33.383   INFO   Applied discount 5.0% to Pepper - Chipotle Canned
+2025-05-18T20:45:33.387   INFO   Applied discount 10.0% to Cheese - Marble
+2025-05-18T20:45:33.390   INFO   Applied discount 16.0% to Sauce - Ranch Dressing
+2025-05-18T20:45:33.394   INFO   Applied discount 5.0% to Milk - Chocolate 250 Ml
+2025-05-18T20:45:33.398   INFO   Applied discount 16.5% to Soup - Base Broth Chix
+2025-05-18T20:45:33.401   INFO   Applied discount 7.5% to Beef - Kindney Whole
+2025-05-18T20:45:33.405   INFO   Applied discount 0.0% to Bread - White Sliced
+2025-05-18T20:45:33.407   INFO   Applied discount 6.0% to Wine - Pinot Noir Stoneleigh
+2025-05-18T20:45:33.410   INFO   Applied discount 17.5% to Soup Campbells Split Pea And Ham
+2025-05-18T20:45:33.413   INFO   Applied discount 0.0% to Pike - Frozen Fillet
+2025-05-18T20:45:33.416   INFO   Applied discount 5.0% to Edible Flower - Mixed
+2025-05-18T20:45:33.418   INFO   Applied discount 6.0% to Bread - Corn Muffaleta Onion
+2025-05-18T20:45:33.421   INFO   Applied discount 12.0% to Ginger - Fresh
+2025-05-18T20:45:33.423   INFO   Applied discount 6.0% to Doilies - 7 Paper
+2025-05-18T20:45:33.425   INFO   Applied discount 5.0% to Onions - White
+2025-05-18T20:45:33.428   INFO   Applied discount 7.0% to Container - Hngd Cll Blk 7x7x3
+2025-05-18T20:45:33.429   INFO   Applied discount 0.0% to Oxtail - Cut
+2025-05-18T20:45:33.432   INFO   Applied discount 12.5% to Juice Peach Nectar
+2025-05-18T20:45:33.438   INFO   Applied discount 7.0% to Lamb Shoulder Boneless Nz
+2025-05-18T20:45:33.440   INFO   Applied discount 5.0% to Crab - Claws Snow 16 - 24
+2025-05-18T20:45:33.443   INFO   Applied discount 15.0% to Muffin - Mix - Mango Sour Cherry
+2025-05-18T20:45:33.445   INFO   Applied discount 8.5% to Soup - French Can Pea
+2025-05-18T20:45:33.448   INFO   Applied discount 6.0% to Pepper - Gypsy Pepper
+2025-05-18T20:45:33.450   INFO   Applied discount 7.5% to Wooden Mop Handle
+2025-05-18T20:45:33.453   INFO   Applied discount 0.0% to Chilli Paste Ginger Garlic
+2025-05-18T20:45:33.455   INFO   Applied discount 6.0% to Tomatoes - Roma
+2025-05-18T20:45:33.457   INFO   Applied discount 19.0% to Dried Peach
+2025-05-18T20:45:33.460   INFO   Applied discount 13.0% to Lumpfish Black
+2025-05-18T20:45:33.462   INFO   Applied discount 6.0% to Lettuce Romaine Chopped
+2025-05-18T20:45:33.464   INFO   Applied discount 7.0% to Danishes - Mini Raspberry
+2025-05-18T20:45:33.466   INFO   Applied discount 5.0% to Crush - Cream Soda
+2025-05-18T20:45:33.468   INFO   Applied discount 12.5% to Cream - 35%
+2025-05-18T20:45:33.471   INFO   Applied discount 6.0% to Sauerkraut
+2025-05-18T20:45:33.473   INFO   Applied discount 10.0% to Cup Translucent 9 Oz
+2025-05-18T20:45:33.476   INFO   Applied discount 7.5% to Cheese - Parmesan Grated
+2025-05-18T20:45:33.478   INFO   Applied discount 5.0% to Pastry - Mini French Pastries
+2025-05-18T20:45:33.481   INFO   Applied discount 13.0% to Cape Capensis - Fillet
+2025-05-18T20:45:33.484   INFO   Applied discount 5.0% to Ocean Spray - Ruby Red
+2025-05-18T20:45:33.486   INFO   Applied discount 5.0% to Veal - Insides Grains
+2025-05-18T20:45:33.488   INFO   Applied discount 8.0% to Squid - Breaded
+2025-05-18T20:45:33.490   INFO   Applied discount 5.0% to Initation Crab Meat
+2025-05-18T20:45:33.492   INFO   Applied discount 7.5% to Pate - Liver
+2025-05-18T20:45:33.494   INFO   Applied discount 15.0% to Pasta - Penne Rigate Dry
+2025-05-18T20:45:33.498   INFO   Applied discount 7.0% to Samosa - Veg
+2025-05-18T20:45:33.501   INFO   Applied discount 5.0% to Trueblue - Blueberry 12x473ml
+2025-05-18T20:45:33.504   INFO   Applied discount 17.0% to Wine - German Riesling
+2025-05-18T20:45:33.508   INFO   Applied discount 21.0% to Amarula Cream
+2025-05-18T20:45:33.513   INFO   Applied discount 0.0% to Pastrami
+2025-05-18T20:45:33.516   INFO   Applied discount 0.0% to Blue Curacao - Marie Brizard
+2025-05-18T20:45:33.519   INFO   Applied discount 15.5% to Straws - Cocktale
+2025-05-18T20:45:33.523   INFO   Applied discount 13.5% to Rabbit - Frozen
+2025-05-18T20:45:33.528   INFO   Applied discount 5.0% to Wine - Domaine Boyar Royal
+2025-05-18T20:45:33.532   INFO   Applied discount 5.0% to Tomatoes - Roma
+2025-05-18T20:45:33.535   INFO   Applied discount 7.5% to Pork - Loin Bone - In
+2025-05-18T20:45:33.539   INFO   Applied discount 25.0% to Beef - Ox Tongue Pickled
+2025-05-18T20:45:33.544   INFO   Applied discount 0.0% to Cup - Translucent 7 Oz Clear
+2025-05-18T20:45:33.548   INFO   Applied discount 10.0% to Canadian Emmenthal
+2025-05-18T20:45:33.551   INFO   Applied discount 7.0% to Propel Sport Drink
+2025-05-18T20:45:33.555   INFO   Applied discount 7.5% to Langers - Mango Nectar
+2025-05-18T20:45:33.559   INFO   Applied discount 5.0% to Sour Puss Sour Apple
+2025-05-18T20:45:33.563   INFO   Applied discount 7.0% to Pomello
+2025-05-18T20:45:33.567   INFO   Applied discount 10.0% to Cheese Cloth No 100
+2025-05-18T20:45:33.571   INFO   Applied discount 5.0% to Bread Base - Italian
+2025-05-18T20:45:33.575   INFO   Applied discount 16.0% to Soup - Campbells Lentil
+2025-05-18T20:45:33.579   INFO   Applied discount 7.0% to Pepper - Black Crushed
+2025-05-18T20:45:33.583   INFO   Applied discount 15.5% to Salt - Seasoned
+2025-05-18T20:45:33.587   INFO   Applied discount 8.5% to Cheese - La Sauvagine
+2025-05-18T20:45:33.590   INFO   Applied discount 6.0% to Wine - Pinot Noir Latour
+2025-05-18T20:45:33.595   INFO   Applied discount 5.0% to Sprouts - Peppercress
+2025-05-18T20:45:33.598   INFO   Applied discount 7.0% to Numi - Assorted Teas
+2025-05-18T20:45:33.602   INFO   Applied discount 6.0% to Sambuca Cream
+2025-05-18T20:45:33.606   INFO   Applied discount 0.0% to Lemonade - Mandarin 591 Ml
+2025-05-18T20:45:33.610   INFO   Applied discount 7.0% to Melon - Watermelon Seedless
+2025-05-18T20:45:33.613   INFO   Applied discount 8.0% to Rice Paper
+2025-05-18T20:45:33.616   INFO   Applied discount 5.0% to Fruit Salad Deluxe
+2025-05-18T20:45:33.619   INFO   Applied discount 5.0% to Mortadella
+2025-05-18T20:45:33.621   INFO   Applied discount 5.5% to Sausage - Meat
+2025-05-18T20:45:33.628   INFO   Applied discount 5.0% to Wine - Fino Tio Pepe Gonzalez
+2025-05-18T20:45:33.631   INFO   Applied discount 7.5% to Cheese - St. Andre
+2025-05-18T20:45:33.633   INFO   Applied discount 7.5% to Oil - Coconut
+2025-05-18T20:45:33.635   INFO   Applied discount 5.0% to Soup - Campbells Broccoli
+2025-05-18T20:45:33.638   INFO   Applied discount 5.0% to Cranberries - Dry
+2025-05-18T20:45:33.640   INFO   Applied discount 3.0% to Ezy Change Mophandle
+2025-05-18T20:45:33.643   INFO   Applied discount 5.0% to Gherkin
+2025-05-18T20:45:33.645   INFO   Applied discount 15.0% to Carbonated Water - Raspberry
+2025-05-18T20:45:33.647   INFO   Applied discount 5.0% to Cornstarch
+2025-05-18T20:45:33.650   INFO   Applied discount 5.0% to Iced Tea Concentrate
+2025-05-18T20:45:33.653   INFO   Applied discount 24.0% to Pasta - Rotini Colour Dry
+2025-05-18T20:45:33.655   INFO   Applied discount 5.0% to Sour Puss Raspberry
+2025-05-18T20:45:33.657   INFO   Applied discount 5.0% to Bread Country Roll
+2025-05-18T20:45:33.660   INFO   Applied discount 5.0% to Apple - Fuji
+2025-05-18T20:45:33.662   INFO   Applied discount 5.0% to Soup - Boston Clam Chowder
+2025-05-18T20:45:33.664   INFO   Applied discount 0.0% to Trout - Smoked
+2025-05-18T20:45:33.667   INFO   Applied discount 6.0% to Beer - Camerons Cream Ale
+2025-05-18T20:45:33.669   INFO   Applied discount 10.0% to Juice - Orange 341 Ml
+2025-05-18T20:45:33.671   INFO   Applied discount 0.0% to Pike - Frozen Fillet
+2025-05-18T20:45:33.675   INFO   Applied discount 27.0% to Crab - Imitation Flakes
+2025-05-18T20:45:33.677   INFO   Applied discount 8.5% to Bag Clear 10 Lb
+2025-05-18T20:45:33.680   INFO   Applied discount 6.0% to Wine - Mas Chicet Rose Vintage
+2025-05-18T20:45:33.683   INFO   Applied discount 7.5% to Yoghurt Tubes
+2025-05-18T20:45:33.685   INFO   Applied discount 7.0% to Milk - Skim
+2025-05-18T20:45:33.688   INFO   Applied discount 16.0% to Toothpick Frilled
+2025-05-18T20:45:33.690   INFO   Applied discount 0.0% to Table Cloth 120 Round White
+2025-05-18T20:45:33.692   INFO   Applied discount 6.0% to Vinegar - Balsamic
+2025-05-18T20:45:33.694   INFO   Applied discount 5.0% to Canadian Emmenthal
+2025-05-18T20:45:33.696   INFO   Applied discount 0.0% to Cookies - Oreo 4 Pack
+2025-05-18T20:45:33.698   INFO   Applied discount 6.0% to Wine - Red Cooking
+2025-05-18T20:45:33.701   INFO   Applied discount 6.0% to Appetizer - Asian Shrimp Roll
+2025-05-18T20:45:33.704   INFO   Applied discount 5.0% to Rum - Cream Amarula
+2025-05-18T20:45:33.707   INFO   Applied discount 14.5% to Lettuce - Frisee
+2025-05-18T20:45:33.711   INFO   Applied discount 5.0% to Broom And Broom Rack White
+2025-05-18T20:45:33.715   INFO   Applied discount 7.0% to Squash - Acorn
+2025-05-18T20:45:33.719   INFO   Applied discount 7.0% to Water - Spring Water 355 Ml
+2025-05-18T20:45:33.722   INFO   Applied discount 10.0% to Beans - Black Bean Dry
+2025-05-18T20:45:33.726   INFO   Applied discount 10.0% to Gatorade - Orange
+2025-05-18T20:45:33.730   INFO   Applied discount 5.0% to Beer - Labatt Blue
+2025-05-18T20:45:33.733   INFO   Applied discount 5.0% to Soup - Campbells Beef Strogonoff
+2025-05-18T20:45:33.738   INFO   Applied discount 10.0% to Pears - Fiorelle
+2025-05-18T20:45:33.741   INFO   Applied discount 10.0% to Pumpkin - Seed
+2025-05-18T20:45:33.745   INFO   Applied discount 7.0% to Cookie Dough - Peanut Butter
+2025-05-18T20:45:33.749   INFO   Applied discount 7.5% to Cheese - Le Cheve Noir
+2025-05-18T20:45:33.753   INFO   Applied discount 5.0% to Seaweed Green Sheets
+2025-05-18T20:45:33.757   INFO   Applied discount 11.0% to Truffle Paste
+2025-05-18T20:45:33.762   INFO   Applied discount 7.5% to Mcguinness - Blue Curacao
+2025-05-18T20:45:33.765   INFO   Applied discount 5.0% to Sugar - White Packet
+2025-05-18T20:45:33.769   INFO   Applied discount 4.0% to Mushroom - Porcini Frozen
+2025-05-18T20:45:33.776   INFO   Applied discount 0.0% to Bread - Multigrain Loaf
+2025-05-18T20:45:33.779   INFO   Applied discount 5.0% to Wine - Magnotta White
+2025-05-18T20:45:33.783   INFO   Applied discount 11.0% to Southern Comfort
+2025-05-18T20:45:33.787   INFO   Applied discount 4.5% to Bread Base - Italian
+2025-05-18T20:45:33.791   INFO   Applied discount 6.0% to Wine - Ruffino Chianti
+2025-05-18T20:45:33.795   INFO   Applied discount 5.0% to Rice - 7 Grain Blend
+2025-05-18T20:45:33.799   INFO   Applied discount 0.0% to Split Peas - Yellow Dry
+2025-05-18T20:45:33.803   INFO   Applied discount 5.0% to Oil - Olive Bertolli
+2025-05-18T20:45:33.807   INFO   Applied discount 17.0% to Lamb - Whole Head Off
+2025-05-18T20:45:33.811   INFO   Applied discount 7.0% to Basil - Dry Rubbed
+2025-05-18T20:45:33.813   INFO   Applied discount 0.0% to Kiwi Gold Zespri
+2025-05-18T20:45:33.815   INFO   Applied discount 9.0% to Cheese - Marble
+2025-05-18T20:45:33.819   INFO   Applied discount 6.0% to Maple Syrup
+2025-05-18T20:45:33.821   INFO   Applied discount 5.0% to Mushroom - Shitake Fresh
+2025-05-18T20:45:33.823   INFO   Applied discount 5.0% to Wine - Tio Pepe Sherry Fino
+2025-05-18T20:45:33.825   INFO   Applied discount 4.0% to Bread - Italian Roll With Herbs
+2025-05-18T20:45:33.828   INFO   Applied discount 5.0% to Sausage - Meat
+2025-05-18T20:45:33.830   INFO   Applied discount 8.5% to Cheese - Stilton
+2025-05-18T20:45:33.832   INFO   Applied discount 5.0% to Coconut - Whole
+2025-05-18T20:45:33.834   INFO   Applied discount 16.0% to Sauce Bbq Smokey
+2025-05-18T20:45:33.837   INFO   Applied discount 7.0% to Soup - Campbells Beef Noodle
+2025-05-18T20:45:33.839   INFO   Applied discount 5.0% to Pop - Club Soda Can
+2025-05-18T20:45:33.842   INFO   Applied discount 5.0% to Vinegar - Balsamic
+2025-05-18T20:45:33.844   INFO   Applied discount 5.5% to Soup - Verve - Chipotle Chicken
+2025-05-18T20:45:33.846   INFO   Applied discount 5.0% to Wasabi Powder
+2025-05-18T20:45:33.849   INFO   Applied discount 10.0% to Beans - Turtle Black Dry
+2025-05-18T20:45:33.850   INFO   Applied discount 0.0% to Pastry - Mini French Pastries
+2025-05-18T20:45:33.851   INFO   Applied discount 0.0% to Muffin Mix - Oatmeal
+2025-05-18T20:45:33.854   INFO   Applied discount 8.5% to Pasta - Cheese / Spinach Bauletti
+2025-05-18T20:45:33.857   INFO   Applied discount 6.0% to 7up Diet 355 Ml
+2025-05-18T20:45:33.859   INFO   Applied discount 0.0% to Soup Campbells Turkey Veg.
+2025-05-18T20:45:33.861   INFO   Applied discount 28.5% to Muffin - Zero Transfat
+2025-05-18T20:45:33.863   INFO   Applied discount 10.0% to Rum - White Gg White
+2025-05-18T20:45:33.865   INFO   Applied discount 7.5% to Arizona - Green Tea
+2025-05-18T20:45:33.868   INFO   Applied discount 0.0% to Tart Shells - Sweet 4
+2025-05-18T20:45:33.870   INFO   Applied discount 12.0% to Bread - Malt
+2025-05-18T20:45:33.872   INFO   Applied discount 6.0% to Milk - Buttermilk
+2025-05-18T20:45:33.875   INFO   Applied discount 5.0% to Brandy - Orange Mc Guiness
+2025-05-18T20:45:33.877   INFO   Applied discount 0.0% to Wheat - Soft Kernal Of Wheat
+2025-05-18T20:45:33.880   INFO   Applied discount 8.0% to Snails - Large Canned
+2025-05-18T20:45:33.882   INFO   Applied discount 6.0% to Garbag Bags - Black
+2025-05-18T20:45:33.885   INFO   Applied discount 5.0% to Persimmons
+2025-05-18T20:45:33.887   INFO   Applied discount 5.0% to Salmon Atl.whole 8 - 10 Lb
+2025-05-18T20:45:33.890   INFO   Applied discount 5.0% to Soup - Campbells Mushroom
+2025-05-18T20:45:33.893   INFO   Applied discount 8.0% to Soup - Campbells Cream Of
+2025-05-18T20:45:33.895   INFO   Applied discount 10.0% to Stainless Steel Cleaner Vision
+2025-05-18T20:45:33.897   INFO   Applied discount 4.5% to Juice - Ocean Spray Cranberry
+2025-05-18T20:45:33.900   INFO   Applied discount 7.5% to Beets
+2025-05-18T20:45:33.904   INFO   Applied discount 5.0% to Fish - Base Bouillion
+2025-05-18T20:45:33.907   INFO   Applied discount 6.0% to Bread - Crumbs Bulk
+2025-05-18T20:45:33.910   INFO   Applied discount 16.0% to Sauce Bbq Smokey
+2025-05-18T20:45:33.913   INFO   Applied discount 5.0% to Basil - Pesto Sauce
+2025-05-18T20:45:33.917   INFO   Applied discount 16.5% to Macaroons - Two Bite Choc
+2025-05-18T20:45:33.920   INFO   Applied discount 6.0% to Plaintain
+2025-05-18T20:45:33.924   INFO   Applied discount 5.0% to Cookies Almond Hazelnut
+2025-05-18T20:45:33.931   INFO   Applied discount 6.0% to Pear - Asian
+2025-05-18T20:45:33.935   INFO   Applied discount 14.0% to Long Island Ice Tea
+2025-05-18T20:45:33.939   INFO   Applied discount 10.0% to Cheese - St. Paulin
+2025-05-18T20:45:33.943   INFO   Applied discount 6.0% to Plate Pie Foil
+2025-05-18T20:45:33.947   INFO   Applied discount 7.0% to Scallops - 20/30
+2025-05-18T20:45:33.950   INFO   Applied discount 5.0% to Lettuce - Spring Mix
+2025-05-18T20:45:33.954   INFO   Applied discount 13.5% to Rosemary - Dry
+2025-05-18T20:45:33.958   INFO   Applied discount 15.0% to Chicken Breast Halal
+2025-05-18T20:45:33.962   INFO   Applied discount 7.0% to Nescafe - Frothy French Vanilla
+2025-05-18T20:45:33.966   INFO   Applied discount 18.0% to Bread - Raisin Walnut Oval
+2025-05-18T20:45:33.969   INFO   Applied discount 12.0% to Kahlua
+2025-05-18T20:45:33.972   INFO   Applied discount 16.5% to Bread - Roll Soft White Round
+2025-05-18T20:45:33.977   INFO   Applied discount 0.0% to 7up Diet 355 Ml
+2025-05-18T20:45:33.980   INFO   Applied discount 15.5% to Chinese Foods - Plain Fried Rice
+2025-05-18T20:45:33.984   INFO   Applied discount 0.0% to Chicken - Whole
+2025-05-18T20:45:33.987   INFO   Applied discount 0.0% to Goldschalger
+2025-05-18T20:45:33.991   INFO   Applied discount 0.0% to External Supplier
+2025-05-18T20:45:33.996   INFO   Applied discount 6.0% to Wine - Coteaux Du Tricastin Ac
+2025-05-18T20:45:33.999   INFO   Applied discount 0.0% to Vol Au Vents
+2025-05-18T20:45:34.005   INFO   Applied discount 12.0% to Mushrooms - Honey
+2025-05-18T20:45:34.010   INFO   Applied discount 6.0% to Tomatoes Tear Drop Yellow
+2025-05-18T20:45:34.014   INFO   Applied discount 7.0% to Nut - Pecan Halves
+2025-05-18T20:45:34.017   INFO   Applied discount 7.0% to Yoplait Drink
+2025-05-18T20:45:34.020   INFO   Applied discount 5.0% to Wine - Magnotta - Cab Franc
+2025-05-18T20:45:34.023   INFO   Applied discount 15.0% to Goat - Whole Cut
+2025-05-18T20:45:34.026   INFO   Applied discount 0.0% to Oil - Pumpkinseed
+2025-05-18T20:45:34.029   INFO   Applied discount 7.0% to Cookie Trail Mix
+2025-05-18T20:45:34.033   INFO   Applied discount 5.0% to Veal - Bones
+2025-05-18T20:45:34.036   INFO   Applied discount 5.0% to Goulash Seasoning
+2025-05-18T20:45:34.039   INFO   Applied discount 5.0% to Buffalo - Striploin
+2025-05-18T20:45:34.042   INFO   Applied discount 7.0% to Juice - Lagoon Mango
+2025-05-18T20:45:34.046   INFO   Applied discount 15.5% to Milk - Chocolate 250 Ml
+2025-05-18T20:45:34.049   INFO   Applied discount 6.0% to Flower - Leather Leaf Fern
+2025-05-18T20:45:34.052   INFO   Applied discount 5.5% to Fish - Soup Base Bouillon
+2025-05-18T20:45:34.055   INFO   Applied discount 6.0% to Silicone Paper 16.5x24
+2025-05-18T20:45:34.058   INFO   Applied discount 7.5% to Red Currants
+2025-05-18T20:45:34.061   INFO   Applied discount 12.0% to Lamb - Shanks
+2025-05-18T20:45:34.064   INFO   Applied discount 5.0% to Coriander - Seed
+2025-05-18T20:45:34.067   INFO   Applied discount 5.0% to Pepper - Sorrano
+2025-05-18T20:45:34.069   INFO   Applied discount 10.0% to Ecolab - Hobart Upr Prewash Arm
+2025-05-18T20:45:34.072   INFO   Applied discount 7.0% to Oil - Coconut
+2025-05-18T20:45:34.075   INFO   Applied discount 18.5% to Juice - Orange 1.89l
+2025-05-18T20:45:34.078   INFO   Applied discount 14.0% to Fennel - Seeds
+2025-05-18T20:45:34.080   INFO   Applied discount 10.0% to Lotus Rootlets - Canned
+2025-05-18T20:45:34.083   INFO   Applied discount 5.0% to Chocolate - Chips Compound
+2025-05-18T20:45:34.085   INFO   Applied discount 7.0% to Bagel - Everything
+2025-05-18T20:45:34.086   INFO   Applied discount 27.5% to Beef - Sushi Flat Iron Steak
+2025-05-18T20:45:34.088   INFO   Applied discount 7.5% to Cheese - Colby
+2025-05-18T20:45:34.090   INFO   Applied discount 5.0% to Bagel - Sesame Seed Presliced
+2025-05-18T20:45:34.093   INFO   Applied discount 11.0% to Tomatoes - Cherry
+2025-05-18T20:45:34.095   INFO   Applied discount 5.0% to Pastry - Banana Muffin - Mini
+2025-05-18T20:45:34.098   INFO   Applied discount 30.0% to Cheese - Cream Cheese
+2025-05-18T20:45:34.099   INFO   Applied discount 5.0% to Pork Casing
+2025-05-18T20:45:34.101   INFO   Applied discount 5.0% to Wine - Puligny Montrachet A.
+2025-05-18T20:45:34.103   INFO   Applied discount 12.5% to Soup - Clam Chowder Dry Mix
+2025-05-18T20:45:34.105   INFO   Applied discount 0.0% to Pork - Smoked Kassler
+2025-05-18T20:45:34.108   INFO   Applied discount 5.0% to Cardamon Ground
+2025-05-18T20:45:34.111   INFO   Applied discount 15.5% to Island Oasis - Lemonade
+2025-05-18T20:45:34.114   INFO   Applied discount 15.0% to Coffee Beans - Chocolate
+2025-05-18T20:45:34.116   INFO   Applied discount 6.0% to Glucose
+2025-05-18T20:45:34.125   INFO   Applied discount 6.0% to Beef - Tongue Cooked
+2025-05-18T20:45:34.130   INFO   Applied discount 7.5% to Table Cloth 62x120 Colour
+2025-05-18T20:45:34.133   INFO   Applied discount 0.0% to Gatorade - Orange
+2025-05-18T20:45:34.136   INFO   Applied discount 5.0% to Pasta - Lasagna Dry
+2025-05-18T20:45:34.140   INFO   Applied discount 10.5% to Soup - Cream Of Broccoli
+2025-05-18T20:45:34.144   INFO   Applied discount 6.0% to Sambuca - Ramazzotti
+2025-05-18T20:45:34.147   INFO   Applied discount 6.0% to Wine - Kwv Chenin Blanc South
+2025-05-18T20:45:34.151   INFO   Applied discount 12.5% to Wine - Manischewitz Concord
+2025-05-18T20:45:34.154   INFO   Applied discount 7.0% to Cookie Dough - Double
+2025-05-18T20:45:34.156   INFO   Applied discount 14.5% to Beef - Bresaola
+2025-05-18T20:45:34.162   INFO   Applied discount 5.0% to Smoked Paprika
+2025-05-18T20:45:34.167   INFO   Applied discount 0.0% to Puree - Blackcurrant
+2025-05-18T20:45:34.170   INFO   Applied discount 7.5% to Pepper - Chillies Crushed
+2025-05-18T20:45:34.174   INFO   Applied discount 7.5% to Tea - English Breakfast
+2025-05-18T20:45:34.179   INFO   Applied discount 5.0% to Mustard - Individual Pkg
+2025-05-18T20:45:34.182   INFO   Applied discount 10.0% to Cheese - Goat
+2025-05-18T20:45:34.186   INFO   Applied discount 0.0% to Swiss Chard
+2025-05-18T20:45:34.189   INFO   Applied discount 6.5% to Juice - Apple 284ml
+2025-05-18T20:45:34.193   INFO   Applied discount 5.0% to Dip - Tapenade
+2025-05-18T20:45:34.197   INFO   Applied discount 8.5% to Horseradish - Prepared
+2025-05-18T20:45:34.200   INFO   Applied discount 5.0% to Bar Mix - Pina Colada 355 Ml
+2025-05-18T20:45:34.204   INFO   Applied discount 5.0% to Wine - White Riesling Semi - Dry
+2025-05-18T20:45:34.208   INFO   Applied discount 5.0% to Chicken - Leg / Back Attach
+2025-05-18T20:45:34.212   INFO   Applied discount 7.5% to Radish - Pickled
+2025-05-18T20:45:34.214   INFO   Applied discount 33.0% to Mushroom - Chantrelle Fresh
+2025-05-18T20:45:34.217   INFO   Applied discount 5.0% to Chicken - White Meat With Tender
+2025-05-18T20:45:34.219   INFO   Applied discount 10.0% to Shrimp - Black Tiger 13/15
+2025-05-18T20:45:34.222   INFO   Applied discount 0.0% to Food Colouring - Pink
+2025-05-18T20:45:34.224   INFO   Applied discount 0.0% to Chicken - Breast 5 - 7 Oz
+2025-05-18T20:45:34.226   INFO   Applied discount 0.0% to Blueberries
+2025-05-18T20:45:34.229   INFO   Applied discount 6.0% to Wine - Charddonnay Errazuriz
+2025-05-18T20:45:34.231   INFO   Applied discount 7.5% to Veal - Round Eye Of
+2025-05-18T20:45:34.233   INFO   Applied discount 5.0% to Veal - Leg
+2025-05-18T20:45:34.235   INFO   Applied discount 5.0% to Gin - Gilbeys London Dry
+2025-05-18T20:45:34.237   INFO   Applied discount 5.0% to Creme De Banane - Marie
